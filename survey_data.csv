@@ -1,0 +1,1201 @@
+record_id,employee_alias,department,input_text,category,source_id,score,status,reviewer_action,audit_timestamp
+HR-301,EMP-754,HR,Could improve,Unclear,SRC-5012,0.28,Pending,None,2026-08-16 04:03:18
+HR-302,EMP-792,Operations,We need regular team updates,Communication,SRC-7912,0.61,Pending,None,2026-08-15 18:26:18
+HR-303,EMP-323,IT,We need regular team updates,Communication,SRC-4257,0.87,Pending,None,2026-09-05 07:19:18
+HR-304,EMP-529,IT,Managers should give more feedback,Management,SRC-3615,0.87,Pending,None,2026-08-26 23:44:18
+HR-305,EMP-384,IT,Pay should be reviewed regularly,Compensation,SRC-2674,0.64,Pending,None,2026-08-15 21:44:18
+HR-306,EMP-467,Customer Support,Managers should give more feedback,Management,SRC-8527,0.8,Pending,None,2026-08-28 17:33:18
+HR-307,EMP-180,Marketing,More professional development would help,Career Growth,SRC-6925,0.82,Pending,None,2026-08-14 16:04:18
+HR-308,EMP-146,Operations,Managers should give more feedback,Management,SRC-4814,0.93,Pending,None,2026-08-28 19:17:18
+HR-309,EMP-384,Sales,Management should listen to employees,Management,SRC-7065,0.74,Pending,None,2026-08-23 15:42:18
+HR-310,EMP-818,Operations,Good work should receive more recognition,Recognition,SRC-9751,0.88,Pending,None,2026-08-18 22:34:18
+HR-311,EMP-573,Sales,More professional development would help,Career Growth,SRC-4598,0.86,Pending,None,2026-08-14 01:11:18
+HR-312,EMP-334,Customer Support,I don't know,Unclear,SRC-7572,0.29,Pending,None,2026-08-21 02:32:18
+HR-313,EMP-680,Operations,There should be clearer promotion opportunities,Career Growth,SRC-7482,0.94,Pending,None,2026-09-09 18:15:18
+HR-314,EMP-569,IT,Some employees have too much work,Workload,SRC-9830,0.7,Pending,None,2026-09-07 02:37:18
+HR-315,EMP-538,Marketing,Too many tasks are assigned at once,Workload,SRC-9348,0.79,Pending,None,2026-08-13 15:33:18
+HR-316,EMP-981,HR,We need better workload distribution,Workload,SRC-2040,0.75,Pending,None,2026-09-07 14:58:18
+HR-317,EMP-579,Marketing,Employees should be appreciated more,Recognition,SRC-2876,0.86,Pending,None,2026-09-04 22:36:18
+HR-318,EMP-868,Finance,Managers should give more feedback,Management,SRC-5808,0.77,Pending,None,2026-09-01 03:41:18
+HR-319,EMP-103,Operations,Leadership can improve employee support,Management,SRC-3927,0.79,Pending,None,2026-08-16 08:19:18
+HR-320,EMP-991,Operations,More professional development would help,Career Growth,SRC-4258,0.66,Pending,None,2026-08-18 20:33:18
+HR-321,EMP-652,Customer Support,We need regular team updates,Communication,SRC-6310,0.79,Pending,None,2026-08-16 14:17:18
+HR-322,EMP-471,Customer Support,The workload is too high,Workload,SRC-4946,0.93,Pending,None,2026-08-15 02:07:18
+HR-323,EMP-187,Operations,We need regular team updates,Communication,SRC-3060,0.65,Pending,None,2026-09-02 03:14:18
+HR-324,EMP-662,IT,Benefits could be improved,Compensation,SRC-7932,0.97,Pending,None,2026-09-05 01:09:18
+HR-325,EMP-873,Operations,We need more learning programs,Career Growth,SRC-7537,0.98,Pending,None,2026-09-10 01:56:18
+HR-326,EMP-482,Sales,The workplace environment is comfortable,Work Environment,SRC-5061,0.69,Pending,None,2026-08-26 21:22:18
+HR-327,EMP-121,Marketing,Good work should receive more recognition,Recognition,SRC-1117,0.63,Pending,None,2026-09-09 05:25:18
+HR-328,EMP-160,IT,Things could be better,Unclear,SRC-6413,0.22,Pending,None,2026-08-22 08:03:18
+HR-329,EMP-385,Operations,Good work should receive more recognition,Recognition,SRC-8744,0.69,Pending,None,2026-09-02 00:42:18
+HR-330,EMP-926,Sales,There should be better communication between departments,Communication,SRC-6804,0.76,Pending,None,2026-09-01 18:12:18
+HR-331,EMP-984,Operations,Not sure about this,Unclear,SRC-1993,0.34,Pending,None,2026-08-26 22:42:18
+HR-332,EMP-919,Customer Support,Need improvement,Unclear,SRC-4116,0.39,Pending,None,2026-08-17 21:12:18
+HR-333,EMP-532,IT,The workload is too high,Workload,SRC-8260,0.91,Pending,None,2026-09-05 13:12:18
+HR-334,EMP-200,HR,Employees should be appreciated more,Recognition,SRC-2528,0.95,Pending,None,2026-08-22 06:17:18
+HR-335,EMP-270,Sales,We need better workload distribution,Workload,SRC-1960,0.66,Pending,None,2026-08-11 14:27:18
+HR-336,EMP-499,Finance,Compensation should reflect responsibilities,Compensation,SRC-5673,0.76,Pending,None,2026-09-05 19:08:18
+HR-337,EMP-777,Operations,Work pressure is increasing,Workload,SRC-4566,0.97,Pending,None,2026-09-06 20:43:18
+HR-338,EMP-853,Marketing,I don't know,Unclear,SRC-1936,0.22,Pending,None,2026-09-02 04:52:18
+HR-339,EMP-614,Customer Support,We need regular team updates,Communication,SRC-2312,0.92,Pending,None,2026-08-14 14:56:18
+HR-340,EMP-709,HR,We need better workload distribution,Workload,SRC-2964,0.96,Pending,None,2026-09-06 10:20:18
+HR-341,EMP-352,Marketing,Employees should be appreciated more,Recognition,SRC-7868,0.85,Pending,None,2026-09-06 05:28:18
+HR-342,EMP-635,Finance,Work pressure is increasing,Workload,SRC-4910,0.7,Pending,None,2026-08-17 11:03:18
+HR-343,EMP-787,Operations,Managers should give more feedback,Management,SRC-1152,0.77,Pending,None,2026-09-06 03:02:18
+HR-344,EMP-202,HR,We need better employee appreciation,Recognition,SRC-3170,0.95,Pending,None,2026-08-14 15:14:18
+HR-345,EMP-350,Finance,The work environment needs improvement,Work Environment,SRC-5956,0.83,Pending,None,2026-09-10 06:24:18
+HR-346,EMP-641,HR,We need better employee appreciation,Recognition,SRC-2697,0.96,Pending,None,2026-08-17 14:46:18
+HR-347,EMP-370,HR,More professional development would help,Career Growth,SRC-3546,0.7,Pending,None,2026-09-08 00:44:18
+HR-348,EMP-315,Operations,We need more learning programs,Career Growth,SRC-9280,0.79,Pending,None,2026-08-13 19:35:18
+HR-349,EMP-194,Operations,Managers should give more feedback,Management,SRC-1058,0.73,Pending,None,2026-08-17 10:59:18
+HR-350,EMP-752,Finance,The work environment needs improvement,Work Environment,SRC-8007,0.81,Pending,None,2026-08-16 14:17:18
+HR-351,EMP-177,Operations,Employees should be appreciated more,Recognition,SRC-7049,0.82,Pending,None,2026-08-18 05:51:18
+HR-352,EMP-540,IT,I don't know,Unclear,SRC-1653,0.51,Pending,None,2026-08-21 01:33:18
+HR-353,EMP-798,IT,Leadership can improve employee support,Management,SRC-7658,0.97,Pending,None,2026-08-18 12:54:18
+HR-354,EMP-342,Customer Support,Employees need better compensation,Compensation,SRC-7755,0.61,Pending,None,2026-08-26 14:56:18
+HR-355,EMP-901,Sales,Employees need better compensation,Compensation,SRC-5371,0.66,Pending,None,2026-08-16 10:10:18
+HR-356,EMP-491,Customer Support,There are some issues,Unclear,SRC-4644,0.27,Pending,None,2026-09-01 10:52:18
+HR-357,EMP-458,Finance,Employees need better compensation,Compensation,SRC-4652,0.61,Pending,None,2026-08-20 07:02:18
+HR-358,EMP-508,Finance,Teams should communicate more clearly,Communication,SRC-6753,0.84,Pending,None,2026-08-29 16:39:18
+HR-359,EMP-795,Customer Support,Need better internal communication,Communication,SRC-5279,0.67,Pending,None,2026-08-23 14:03:18
+HR-360,EMP-139,HR,We need better support from managers,Management,SRC-8149,0.83,Pending,None,2026-09-03 18:42:18
+HR-361,EMP-218,Sales,Work pressure is increasing,Workload,SRC-1727,0.87,Pending,None,2026-08-11 13:56:18
+HR-362,EMP-632,Customer Support,Employees need better career growth opportunities,Career Growth,SRC-6967,0.76,Pending,None,2026-08-26 12:45:18
+HR-363,EMP-738,Finance,Teams should communicate more clearly,Communication,SRC-9308,0.72,Pending,None,2026-08-30 02:10:18
+HR-364,EMP-434,Sales,Good work should receive more recognition,Recognition,SRC-4143,0.76,Pending,None,2026-08-28 18:13:18
+HR-365,EMP-793,Operations,Employees deserve more recognition,Recognition,SRC-5930,0.75,Pending,None,2026-08-11 12:32:18
+HR-366,EMP-411,Finance,Benefits could be improved,Compensation,SRC-6279,0.78,Pending,None,2026-08-31 15:03:18
+HR-367,EMP-791,IT,Employees need better compensation,Compensation,SRC-2389,0.71,Pending,None,2026-09-09 07:26:18
+HR-368,EMP-734,Finance,It is okay,Unclear,SRC-6085,0.28,Pending,None,2026-08-20 13:36:18
+HR-369,EMP-250,HR,There are some issues,Unclear,SRC-2193,0.36,Pending,None,2026-09-09 03:58:18
+HR-370,EMP-689,IT,The workplace facilities are good,Work Environment,SRC-7547,0.69,Pending,None,2026-09-10 08:41:18
+HR-371,EMP-804,HR,Salary structure could be improved,Compensation,SRC-7965,0.68,Pending,None,2026-09-04 01:50:18
+HR-372,EMP-575,HR,Salary structure could be improved,Compensation,SRC-8478,0.65,Pending,None,2026-09-01 15:36:18
+HR-373,EMP-783,Marketing,We need better employee appreciation,Recognition,SRC-8251,0.83,Pending,None,2026-09-03 11:27:18
+HR-374,EMP-536,Customer Support,The office environment could be improved,Work Environment,SRC-8777,0.77,Pending,None,2026-08-22 18:09:18
+HR-375,EMP-960,Operations,Benefits could be improved,Compensation,SRC-8939,0.84,Pending,None,2026-08-24 00:02:18
+HR-376,EMP-550,HR,Work pressure is increasing,Workload,SRC-6502,0.72,Pending,None,2026-09-05 02:05:18
+HR-377,EMP-182,IT,The office environment could be improved,Work Environment,SRC-4505,0.62,Pending,None,2026-08-30 01:18:18
+HR-378,EMP-438,Marketing,Important information is not shared on time,Communication,SRC-7883,0.75,Pending,None,2026-09-07 02:04:18
+HR-379,EMP-812,HR,Benefits could be improved,Compensation,SRC-7232,0.78,Pending,None,2026-08-27 12:18:18
+HR-380,EMP-405,Customer Support,Compensation should reflect responsibilities,Compensation,SRC-9818,0.88,Pending,None,2026-09-05 08:37:18
+HR-381,EMP-919,Marketing,The office environment could be improved,Work Environment,SRC-5471,0.77,Pending,None,2026-08-12 19:48:18
+HR-382,EMP-498,Finance,Compensation should reflect responsibilities,Compensation,SRC-3704,0.92,Pending,None,2026-08-17 07:30:18
+HR-383,EMP-737,Marketing,No clear opinion,Unclear,SRC-1444,0.23,Pending,None,2026-08-31 00:15:18
+HR-384,EMP-238,Customer Support,Teams should communicate more clearly,Communication,SRC-7211,0.72,Pending,None,2026-09-01 04:45:18
+HR-385,EMP-434,Finance,We need a better working environment,Work Environment,SRC-7906,0.7,Pending,None,2026-08-15 05:33:18
+HR-386,EMP-581,HR,Teams should communicate more clearly,Communication,SRC-4673,0.85,Pending,None,2026-09-10 03:59:18
+HR-387,EMP-141,Customer Support,It is okay,Unclear,SRC-4266,0.49,Pending,None,2026-09-08 18:45:18
+HR-388,EMP-256,IT,Better,Unclear,SRC-2874,0.4,Pending,None,2026-08-21 10:10:18
+HR-389,EMP-576,Operations,Management should listen to employees,Management,SRC-2876,0.9,Pending,None,2026-08-18 22:58:18
+HR-390,EMP-418,HR,Leadership can improve employee support,Management,SRC-7149,0.75,Pending,None,2026-08-20 12:43:18
+HR-391,EMP-177,Marketing,Employees need better career growth opportunities,Career Growth,SRC-2669,0.86,Pending,None,2026-08-25 05:30:18
+HR-392,EMP-970,Operations,We need regular team updates,Communication,SRC-1672,0.73,Pending,None,2026-08-31 00:00:18
+HR-393,EMP-777,Finance,I don't know,Unclear,SRC-1207,0.5,Pending,None,2026-09-02 19:31:18
+HR-394,EMP-208,Sales,There should be clearer promotion opportunities,Career Growth,SRC-3506,0.77,Pending,None,2026-09-04 05:59:18
+HR-395,EMP-766,Finance,Hard work should be recognized,Recognition,SRC-8616,0.77,Pending,None,2026-09-07 11:14:18
+HR-396,EMP-374,Finance,Salary structure could be improved,Compensation,SRC-5569,0.94,Pending,None,2026-08-22 14:27:18
+HR-397,EMP-868,Sales,There should be clearer promotion opportunities,Career Growth,SRC-6511,0.61,Pending,None,2026-08-26 07:06:18
+HR-398,EMP-286,Sales,Pay should be reviewed regularly,Compensation,SRC-6576,0.71,Pending,None,2026-09-07 15:15:18
+HR-399,EMP-818,Finance,Good work should receive more recognition,Recognition,SRC-2402,0.69,Pending,None,2026-08-30 00:01:18
+HR-400,EMP-600,Marketing,There should be clearer promotion opportunities,Career Growth,SRC-9041,0.77,Pending,None,2026-08-12 06:56:18
+HR-401,EMP-195,Finance,Employees need better career growth opportunities,Career Growth,SRC-6016,0.85,Pending,None,2026-08-28 07:10:18
+HR-402,EMP-584,Marketing,The work environment needs improvement,Work Environment,SRC-6419,0.73,Pending,None,2026-09-01 03:42:18
+HR-403,EMP-377,Finance,Important information is not shared on time,Communication,SRC-6169,0.65,Pending,None,2026-09-04 21:24:18
+HR-404,EMP-880,Operations,We need better workload distribution,Workload,SRC-5530,0.88,Pending,None,2026-09-04 09:08:18
+HR-405,EMP-711,Finance,Employees need better compensation,Compensation,SRC-5853,0.69,Pending,None,2026-08-19 16:05:18
+HR-406,EMP-409,HR,Work pressure is increasing,Workload,SRC-1745,0.97,Pending,None,2026-09-05 16:30:18
+HR-407,EMP-399,Operations,There should be clearer promotion opportunities,Career Growth,SRC-2680,0.93,Pending,None,2026-09-06 15:07:18
+HR-408,EMP-391,Sales,Management should listen to employees,Management,SRC-1841,0.7,Pending,None,2026-09-02 05:54:18
+HR-409,EMP-216,Customer Support,There are some issues,Unclear,SRC-2213,0.4,Pending,None,2026-08-13 22:39:18
+HR-410,EMP-255,IT,Managers should give more feedback,Management,SRC-5066,0.65,Pending,None,2026-08-30 10:40:18
+HR-411,EMP-720,Marketing,Some employees have too much work,Workload,SRC-7232,0.77,Pending,None,2026-08-31 15:40:18
+HR-412,EMP-404,Customer Support,We need a better working environment,Work Environment,SRC-1986,0.83,Pending,None,2026-08-16 00:29:18
+HR-413,EMP-881,IT,Managers should give more feedback,Management,SRC-3573,0.69,Pending,None,2026-09-05 15:01:18
+HR-414,EMP-176,IT,There are some issues,Unclear,SRC-8699,0.3,Pending,None,2026-08-22 00:56:18
+HR-415,EMP-395,Operations,Compensation should reflect responsibilities,Compensation,SRC-2166,0.86,Pending,None,2026-08-23 13:03:18
+HR-416,EMP-906,Customer Support,Employees need better career growth opportunities,Career Growth,SRC-7965,0.64,Pending,None,2026-08-21 17:39:18
+HR-417,EMP-763,IT,Employees need better compensation,Compensation,SRC-2169,0.62,Pending,None,2026-08-25 12:05:18
+HR-418,EMP-709,Operations,Managers should communicate expectations clearly,Management,SRC-3037,0.78,Pending,None,2026-08-25 08:14:18
+HR-419,EMP-816,Sales,Employees deserve more recognition,Recognition,SRC-9090,0.77,Pending,None,2026-09-07 17:18:18
+HR-420,EMP-140,Sales,We need better employee appreciation,Recognition,SRC-1423,0.63,Pending,None,2026-09-06 16:22:18
+HR-421,EMP-701,HR,We need more learning programs,Career Growth,SRC-1659,0.89,Pending,None,2026-08-19 11:27:18
+HR-422,EMP-581,Marketing,Management should listen to employees,Management,SRC-8141,0.84,Pending,None,2026-09-02 21:11:18
+HR-423,EMP-193,Sales,We need better support from managers,Management,SRC-2713,0.93,Pending,None,2026-08-26 12:20:18
+HR-424,EMP-521,Operations,There should be clearer promotion opportunities,Career Growth,SRC-1601,0.77,Pending,None,2026-08-25 19:38:18
+HR-425,EMP-358,Finance,Not good,Unclear,SRC-7622,0.5,Pending,None,2026-08-11 13:21:18
+HR-426,EMP-773,Customer Support,The workplace environment is comfortable,Work Environment,SRC-4073,0.8,Pending,None,2026-09-08 20:10:18
+HR-427,EMP-874,Sales,Salary structure could be improved,Compensation,SRC-4335,0.7,Pending,None,2026-08-17 11:12:18
+HR-428,EMP-394,Sales,The workplace environment is comfortable,Work Environment,SRC-1472,0.97,Pending,None,2026-09-08 05:09:18
+HR-429,EMP-918,IT,Leadership can improve employee support,Management,SRC-1224,0.81,Pending,None,2026-08-15 17:54:18
+HR-430,EMP-330,Customer Support,The workplace environment is comfortable,Work Environment,SRC-3522,0.79,Pending,None,2026-08-24 18:53:18
+HR-431,EMP-621,Operations,Compensation should reflect responsibilities,Compensation,SRC-8736,0.69,Pending,None,2026-09-05 14:13:18
+HR-432,EMP-248,Sales,Employees deserve more recognition,Recognition,SRC-3236,0.93,Pending,None,2026-08-24 01:50:18
+HR-433,EMP-891,Customer Support,Leadership can improve employee support,Management,SRC-5377,0.91,Pending,None,2026-08-24 09:02:18
+HR-434,EMP-843,Finance,Hard work should be recognized,Recognition,SRC-3434,0.77,Pending,None,2026-09-02 13:07:18
+HR-435,EMP-453,Finance,Hard work should be recognized,Recognition,SRC-8460,0.95,Pending,None,2026-08-20 02:09:18
+HR-436,EMP-814,IT,We need better workload distribution,Workload,SRC-1715,0.72,Pending,None,2026-09-02 00:42:18
+HR-437,EMP-822,Customer Support,Employees need better career growth opportunities,Career Growth,SRC-9115,0.97,Pending,None,2026-08-17 05:59:18
+HR-438,EMP-614,Marketing,There should be better communication between departments,Communication,SRC-2633,0.8,Pending,None,2026-09-01 07:11:18
+HR-439,EMP-115,Operations,Not good,Unclear,SRC-3529,0.23,Pending,None,2026-08-23 13:34:18
+HR-440,EMP-446,Marketing,More training opportunities are needed,Career Growth,SRC-6383,0.92,Pending,None,2026-09-04 18:57:18
+HR-441,EMP-489,Finance,Compensation should reflect responsibilities,Compensation,SRC-9864,0.61,Pending,None,2026-08-14 14:50:18
+HR-442,EMP-340,Operations,Management should listen to employees,Management,SRC-2480,0.76,Pending,None,2026-08-15 23:37:18
+HR-443,EMP-878,Operations,There should be better communication between departments,Communication,SRC-3725,0.86,Pending,None,2026-08-12 19:43:18
+HR-444,EMP-147,Finance,We need better support from managers,Management,SRC-7141,0.76,Pending,None,2026-08-22 14:49:18
+HR-445,EMP-643,Sales,Employees need better compensation,Compensation,SRC-3785,0.67,Pending,None,2026-09-08 05:49:18
+HR-446,EMP-991,Sales,We need better workload distribution,Workload,SRC-3344,0.69,Pending,None,2026-09-09 12:51:18
+HR-447,EMP-360,Sales,There should be better communication between departments,Communication,SRC-5712,0.86,Pending,None,2026-08-18 16:39:18
+HR-448,EMP-175,Sales,We need better employee appreciation,Recognition,SRC-7951,0.86,Pending,None,2026-09-01 07:05:18
+HR-449,EMP-965,Finance,The workplace facilities are good,Work Environment,SRC-2747,0.69,Pending,None,2026-09-06 12:47:18
+HR-450,EMP-467,Marketing,We need more learning programs,Career Growth,SRC-1359,0.97,Pending,None,2026-09-10 11:03:18
+HR-451,EMP-505,Finance,Things could be better,Unclear,SRC-9138,0.49,Pending,None,2026-08-24 12:42:18
+HR-452,EMP-894,Customer Support,Pay should be reviewed regularly,Compensation,SRC-4588,0.84,Pending,None,2026-09-08 18:16:18
+HR-453,EMP-356,Operations,Employees need better compensation,Compensation,SRC-2591,0.94,Pending,None,2026-09-09 22:04:18
+HR-454,EMP-140,Finance,We need regular team updates,Communication,SRC-6977,0.88,Pending,None,2026-08-15 14:32:18
+HR-455,EMP-402,Finance,Too many tasks are assigned at once,Workload,SRC-3165,0.9,Pending,None,2026-08-28 03:42:18
+HR-456,EMP-643,Marketing,Employees need better compensation,Compensation,SRC-5210,0.95,Pending,None,2026-09-02 10:24:18
+HR-457,EMP-925,Finance,Managers should give more feedback,Management,SRC-8673,0.97,Pending,None,2026-08-17 21:50:18
+HR-458,EMP-872,IT,There should be clearer promotion opportunities,Career Growth,SRC-6992,0.63,Pending,None,2026-08-29 11:04:18
+HR-459,EMP-114,Finance,We need a better working environment,Work Environment,SRC-5295,0.82,Pending,None,2026-09-09 13:33:18
+HR-460,EMP-480,HR,The workplace environment is comfortable,Work Environment,SRC-6374,0.95,Pending,None,2026-08-21 13:53:18
+HR-461,EMP-763,HR,We need a better working environment,Work Environment,SRC-7689,0.64,Pending,None,2026-08-13 13:37:18
+HR-462,EMP-138,Finance,Need better internal communication,Communication,SRC-4846,0.94,Pending,None,2026-08-17 16:16:18
+HR-463,EMP-497,Sales,More professional development would help,Career Growth,SRC-7866,0.82,Pending,None,2026-08-18 12:52:18
+HR-464,EMP-524,Operations,There are some issues,Unclear,SRC-7686,0.53,Pending,None,2026-08-24 05:39:18
+HR-465,EMP-133,Operations,The workplace facilities are good,Work Environment,SRC-4868,0.93,Pending,None,2026-08-16 00:37:18
+HR-466,EMP-802,Finance,We need more learning programs,Career Growth,SRC-1992,0.75,Pending,None,2026-08-20 03:25:18
+HR-467,EMP-225,Customer Support,Important information is not shared on time,Communication,SRC-1349,0.62,Pending,None,2026-08-26 16:22:18
+HR-468,EMP-349,IT,The workload is too high,Workload,SRC-4394,0.82,Pending,None,2026-08-22 02:35:18
+HR-469,EMP-436,Customer Support,Manager,Unclear,SRC-1046,0.3,Pending,None,2026-08-18 02:08:18
+HR-470,EMP-233,Marketing,The workload is too high,Workload,SRC-1422,0.65,Pending,None,2026-08-27 19:23:18
+HR-471,EMP-908,Customer Support,Managers should give more feedback,Management,SRC-3854,0.7,Pending,None,2026-08-17 06:33:18
+HR-472,EMP-859,Sales,More training opportunities are needed,Career Growth,SRC-8802,0.77,Pending,None,2026-08-27 23:32:18
+HR-473,EMP-625,Marketing,Manager,Unclear,SRC-4629,0.53,Pending,None,2026-08-13 11:27:18
+HR-474,EMP-844,Customer Support,More professional development would help,Career Growth,SRC-5941,0.77,Pending,None,2026-08-12 22:07:18
+HR-475,EMP-162,Sales,The workplace environment is comfortable,Work Environment,SRC-9032,0.87,Pending,None,2026-08-31 16:35:18
+HR-476,EMP-175,HR,The workload is too high,Workload,SRC-3067,0.7,Pending,None,2026-09-09 07:35:18
+HR-477,EMP-699,Marketing,The work environment needs improvement,Work Environment,SRC-9692,0.71,Pending,None,2026-09-03 12:17:18
+HR-478,EMP-719,Sales,Not sure about this,Unclear,SRC-4522,0.35,Pending,None,2026-08-21 21:40:18
+HR-479,EMP-523,Finance,The workplace facilities are good,Work Environment,SRC-2557,0.72,Pending,None,2026-08-25 17:27:18
+HR-480,EMP-781,Finance,We need better workload distribution,Workload,SRC-2099,0.63,Pending,None,2026-08-15 09:20:18
+HR-481,EMP-195,Sales,I don't know,Unclear,SRC-3131,0.39,Pending,None,2026-09-07 04:40:18
+HR-482,EMP-675,Marketing,There should be better communication between departments,Communication,SRC-6793,0.93,Pending,None,2026-08-30 18:03:18
+HR-483,EMP-988,Operations,Could improve,Unclear,SRC-6119,0.32,Pending,None,2026-09-06 19:20:18
+HR-484,EMP-619,IT,The office environment could be improved,Work Environment,SRC-2773,0.73,Pending,None,2026-09-05 19:41:18
+HR-485,EMP-476,HR,Good work should receive more recognition,Recognition,SRC-8030,0.92,Pending,None,2026-09-08 19:11:18
+HR-486,EMP-728,Operations,We need regular team updates,Communication,SRC-5381,0.61,Pending,None,2026-08-23 22:35:18
+HR-487,EMP-819,Customer Support,We need better support from managers,Management,SRC-1100,0.67,Pending,None,2026-08-18 00:34:18
+HR-488,EMP-679,Operations,The workload is too high,Workload,SRC-2503,0.88,Pending,None,2026-08-21 07:04:18
+HR-489,EMP-485,Sales,Work pressure is increasing,Workload,SRC-6105,0.87,Pending,None,2026-09-06 08:03:18
+HR-490,EMP-710,HR,Too many tasks are assigned at once,Workload,SRC-1815,0.86,Pending,None,2026-08-23 21:18:18
+HR-491,EMP-553,Operations,Hard work should be recognized,Recognition,SRC-7785,0.7,Pending,None,2026-09-03 19:43:18
+HR-492,EMP-216,Finance,Leadership can improve employee support,Management,SRC-8972,0.8,Pending,None,2026-08-25 12:58:18
+HR-493,EMP-146,IT,Employees should be appreciated more,Recognition,SRC-1125,0.68,Pending,None,2026-08-21 02:49:18
+HR-494,EMP-885,IT,We need better support from managers,Management,SRC-2965,0.6,Pending,None,2026-08-31 02:29:18
+HR-495,EMP-279,IT,Employees need better career growth opportunities,Career Growth,SRC-9196,0.81,Pending,None,2026-08-27 14:56:18
+HR-496,EMP-173,Sales,There should be better communication between departments,Communication,SRC-1307,0.77,Pending,None,2026-08-15 01:08:18
+HR-497,EMP-982,Finance,Hard work should be recognized,Recognition,SRC-7843,0.71,Pending,None,2026-08-29 22:30:18
+HR-498,EMP-121,Finance,Hard work should be recognized,Recognition,SRC-6928,0.63,Pending,None,2026-08-16 07:43:18
+HR-499,EMP-349,Sales,Employees should be appreciated more,Recognition,SRC-7484,0.93,Pending,None,2026-08-26 22:56:18
+HR-500,EMP-326,Finance,We need regular team updates,Communication,SRC-2868,0.8,Pending,None,2026-08-20 07:53:18
+HR-501,EMP-894,Finance,Employees need better compensation,Compensation,SRC-4871,0.64,Pending,None,2026-08-23 03:41:18
+HR-502,EMP-302,IT,Salary structure could be improved,Compensation,SRC-3902,0.96,Pending,None,2026-09-09 01:59:18
+HR-503,EMP-605,Sales,Benefits could be improved,Compensation,SRC-8354,0.86,Pending,None,2026-09-06 04:40:18
+HR-504,EMP-758,Operations,We need better support from managers,Management,SRC-3473,0.77,Pending,None,2026-09-01 20:17:18
+HR-505,EMP-552,Operations,Leadership can improve employee support,Management,SRC-1920,0.73,Pending,None,2026-08-14 21:08:18
+HR-506,EMP-417,Sales,Teams should communicate more clearly,Communication,SRC-5703,0.63,Pending,None,2026-08-15 14:43:18
+HR-507,EMP-729,Marketing,The work environment needs improvement,Work Environment,SRC-1672,0.77,Pending,None,2026-09-06 12:30:18
+HR-508,EMP-767,IT,The work environment needs improvement,Work Environment,SRC-3471,0.96,Pending,None,2026-09-01 00:11:18
+HR-509,EMP-205,Customer Support,Managers should give more feedback,Management,SRC-9266,0.85,Pending,None,2026-08-13 06:51:18
+HR-510,EMP-353,Operations,The work environment needs improvement,Work Environment,SRC-9564,0.83,Pending,None,2026-08-28 01:34:18
+HR-511,EMP-481,Finance,Pay should be reviewed regularly,Compensation,SRC-1857,0.9,Pending,None,2026-09-09 23:07:18
+HR-512,EMP-442,HR,Hard work should be recognized,Recognition,SRC-5655,0.7,Pending,None,2026-09-10 09:14:18
+HR-513,EMP-717,Customer Support,We need regular team updates,Communication,SRC-3317,0.95,Pending,None,2026-08-25 14:57:18
+HR-514,EMP-771,Operations,Some employees have too much work,Workload,SRC-2388,0.72,Pending,None,2026-08-28 15:32:18
+HR-515,EMP-758,Customer Support,Some employees have too much work,Workload,SRC-2531,0.85,Pending,None,2026-08-30 18:34:18
+HR-516,EMP-620,Finance,Could improve,Unclear,SRC-3953,0.53,Pending,None,2026-08-27 01:21:18
+HR-517,EMP-884,Sales,Too many tasks are assigned at once,Workload,SRC-2264,0.71,Pending,None,2026-08-16 02:34:18
+HR-518,EMP-619,Customer Support,More professional development would help,Career Growth,SRC-1618,0.85,Pending,None,2026-09-08 15:09:18
+HR-519,EMP-234,Marketing,Too many tasks are assigned at once,Workload,SRC-3712,0.87,Pending,None,2026-08-13 11:49:18
+HR-520,EMP-520,Finance,We need better workload distribution,Workload,SRC-5668,0.89,Pending,None,2026-08-31 22:26:18
+HR-521,EMP-339,Marketing,Compensation should reflect responsibilities,Compensation,SRC-4178,0.74,Pending,None,2026-09-06 11:09:18
+HR-522,EMP-551,Sales,Compensation should reflect responsibilities,Compensation,SRC-9239,0.8,Pending,None,2026-08-18 21:06:18
+HR-523,EMP-936,IT,Work pressure is increasing,Workload,SRC-1854,0.84,Pending,None,2026-08-28 09:33:18
+HR-524,EMP-667,HR,Employees should be appreciated more,Recognition,SRC-5670,0.63,Pending,None,2026-08-18 19:12:18
+HR-525,EMP-379,Sales,We need better workload distribution,Workload,SRC-2502,0.96,Pending,None,2026-08-21 14:37:18
+HR-526,EMP-936,Sales,There should be better communication between departments,Communication,SRC-1872,0.75,Pending,None,2026-08-28 12:33:18
+HR-527,EMP-341,Sales,Management should listen to employees,Management,SRC-1461,0.72,Pending,None,2026-08-16 00:19:18
+HR-528,EMP-959,Operations,Employees need better compensation,Compensation,SRC-3254,0.61,Pending,None,2026-09-02 00:08:18
+HR-529,EMP-812,Customer Support,Better,Unclear,SRC-8685,0.36,Pending,None,2026-08-11 17:50:18
+HR-530,EMP-181,HR,Employees need better compensation,Compensation,SRC-9991,0.96,Pending,None,2026-09-08 05:09:18
+HR-531,EMP-640,Sales,Communication...,Unclear,SRC-4893,0.31,Pending,None,2026-08-13 16:15:18
+HR-532,EMP-344,Sales,Hard work should be recognized,Recognition,SRC-2029,0.64,Pending,None,2026-09-03 06:02:18
+HR-533,EMP-711,Marketing,Nothing specific,Unclear,SRC-4963,0.45,Pending,None,2026-08-24 18:14:18
+HR-534,EMP-539,HR,Some employees have too much work,Workload,SRC-7825,0.67,Pending,None,2026-08-15 09:36:18
+HR-535,EMP-636,Finance,Nothing specific,Unclear,SRC-9914,0.38,Pending,None,2026-09-03 14:33:18
+HR-536,EMP-667,HR,The workplace environment is comfortable,Work Environment,SRC-7338,0.97,Pending,None,2026-08-23 01:09:18
+HR-537,EMP-865,HR,Teams should communicate more clearly,Communication,SRC-4950,0.88,Pending,None,2026-09-09 02:19:18
+HR-538,EMP-206,Customer Support,Pay should be reviewed regularly,Compensation,SRC-3185,0.62,Pending,None,2026-09-05 08:29:18
+HR-539,EMP-446,Customer Support,Compensation should reflect responsibilities,Compensation,SRC-8840,0.84,Pending,None,2026-08-17 15:23:18
+HR-540,EMP-164,Operations,The workplace environment is comfortable,Work Environment,SRC-5807,0.68,Pending,None,2026-08-20 13:58:18
+HR-541,EMP-142,Finance,Hard work should be recognized,Recognition,SRC-9897,0.78,Pending,None,2026-08-13 04:05:18
+HR-542,EMP-871,Operations,Managers should give more feedback,Management,SRC-6438,0.7,Pending,None,2026-08-28 06:04:18
+HR-543,EMP-547,Sales,We need a better working environment,Work Environment,SRC-4060,0.79,Pending,None,2026-09-03 03:31:18
+HR-544,EMP-476,Customer Support,Salary structure could be improved,Compensation,SRC-7955,0.63,Pending,None,2026-09-07 22:08:18
+HR-545,EMP-942,IT,Managers should give more feedback,Management,SRC-2311,0.72,Pending,None,2026-08-24 23:01:18
+HR-546,EMP-413,Sales,The office environment could be improved,Work Environment,SRC-8272,0.73,Pending,None,2026-08-13 10:21:18
+HR-547,EMP-844,Customer Support,Hard work should be recognized,Recognition,SRC-5498,0.84,Pending,None,2026-08-14 02:45:18
+HR-548,EMP-176,Operations,Leadership can improve employee support,Management,SRC-3621,0.96,Pending,None,2026-08-18 00:03:18
+HR-549,EMP-969,Marketing,The workplace environment is comfortable,Work Environment,SRC-3068,0.63,Pending,None,2026-09-09 20:47:18
+HR-550,EMP-475,Finance,Employees should be appreciated more,Recognition,SRC-3513,0.86,Pending,None,2026-08-28 09:17:18
+HR-551,EMP-480,Sales,Good work should receive more recognition,Recognition,SRC-9674,0.74,Pending,None,2026-08-25 19:29:18
+HR-552,EMP-765,Finance,Need better internal communication,Communication,SRC-4048,0.79,Pending,None,2026-08-29 02:47:18
+HR-553,EMP-675,HR,Managers should communicate expectations clearly,Management,SRC-4515,0.98,Pending,None,2026-08-24 12:01:18
+HR-554,EMP-810,Sales,The workload is too high,Workload,SRC-8406,0.67,Pending,None,2026-08-31 18:16:18
+HR-555,EMP-189,Customer Support,Pay should be reviewed regularly,Compensation,SRC-6692,0.87,Pending,None,2026-09-05 12:50:18
+HR-556,EMP-655,Finance,Employees need better compensation,Compensation,SRC-3852,0.9,Pending,None,2026-09-03 15:47:18
+HR-557,EMP-329,HR,Employees need better compensation,Compensation,SRC-4878,0.9,Pending,None,2026-08-12 16:48:18
+HR-558,EMP-469,Marketing,The work environment needs improvement,Work Environment,SRC-3126,0.83,Pending,None,2026-08-15 10:16:18
+HR-559,EMP-167,Finance,There should be clearer promotion opportunities,Career Growth,SRC-9612,0.76,Pending,None,2026-08-30 03:18:18
+HR-560,EMP-943,Marketing,I don't know,Unclear,SRC-2215,0.36,Pending,None,2026-09-04 01:11:18
+HR-561,EMP-452,IT,Benefits could be improved,Compensation,SRC-3981,0.89,Pending,None,2026-08-17 09:02:18
+HR-562,EMP-543,Marketing,Need better internal communication,Communication,SRC-9488,0.66,Pending,None,2026-08-18 23:56:18
+HR-563,EMP-265,Finance,Work pressure is increasing,Workload,SRC-9501,0.94,Pending,None,2026-08-15 02:14:18
+HR-564,EMP-356,IT,We need better employee appreciation,Recognition,SRC-3050,0.84,Pending,None,2026-09-08 11:13:18
+HR-565,EMP-646,HR,Some employees have too much work,Workload,SRC-3526,0.67,Pending,None,2026-09-08 22:11:18
+HR-566,EMP-837,Marketing,Employees should be appreciated more,Recognition,SRC-1464,0.63,Pending,None,2026-09-09 16:44:18
+HR-567,EMP-889,Marketing,Some employees have too much work,Workload,SRC-7825,0.83,Pending,None,2026-08-12 21:10:18
+HR-568,EMP-609,Operations,We need more learning programs,Career Growth,SRC-8912,0.69,Pending,None,2026-08-29 23:39:18
+HR-569,EMP-404,Sales,Things could be better,Unclear,SRC-3589,0.35,Pending,None,2026-09-02 13:01:18
+HR-570,EMP-575,IT,Work pressure is increasing,Workload,SRC-6231,0.88,Pending,None,2026-08-27 05:20:18
+HR-571,EMP-508,IT,Employees deserve more recognition,Recognition,SRC-2739,0.72,Pending,None,2026-09-01 17:36:18
+HR-572,EMP-225,Finance,The workload is too high,Workload,SRC-1829,0.71,Pending,None,2026-08-28 23:41:18
+HR-573,EMP-984,Marketing,Employees need better compensation,Compensation,SRC-6364,0.95,Pending,None,2026-08-25 17:40:18
+HR-574,EMP-294,Customer Support,Hard work should be recognized,Recognition,SRC-9171,0.93,Pending,None,2026-09-03 03:21:18
+HR-575,EMP-123,HR,Hard work should be recognized,Recognition,SRC-4944,0.68,Pending,None,2026-08-27 13:33:18
+HR-576,EMP-149,HR,Hard work should be recognized,Recognition,SRC-5681,0.8,Pending,None,2026-08-16 09:30:18
+HR-577,EMP-541,IT,We need more learning programs,Career Growth,SRC-7606,0.74,Pending,None,2026-08-29 17:38:18
+HR-578,EMP-152,Marketing,Leadership can improve employee support,Management,SRC-5728,0.63,Pending,None,2026-09-03 10:52:18
+HR-579,EMP-561,Customer Support,Benefits could be improved,Compensation,SRC-2946,0.65,Pending,None,2026-08-15 21:42:18
+HR-580,EMP-503,Finance,Leadership can improve employee support,Management,SRC-6990,0.89,Pending,None,2026-08-20 13:31:18
+HR-581,EMP-716,Marketing,Need better internal communication,Communication,SRC-1637,0.65,Pending,None,2026-08-26 15:52:18
+HR-582,EMP-923,Sales,Some employees have too much work,Workload,SRC-9446,0.65,Pending,None,2026-09-08 09:44:18
+HR-583,EMP-426,IT,We need better employee appreciation,Recognition,SRC-6511,0.79,Pending,None,2026-09-03 16:50:18
+HR-584,EMP-645,Sales,Managers should communicate expectations clearly,Management,SRC-1272,0.74,Pending,None,2026-08-16 11:49:18
+HR-585,EMP-526,Marketing,More training opportunities are needed,Career Growth,SRC-8775,0.7,Pending,None,2026-09-10 08:10:18
+HR-586,EMP-901,Customer Support,The workload is too high,Workload,SRC-8871,0.66,Pending,None,2026-09-09 03:09:18
+HR-587,EMP-838,Marketing,The office environment could be improved,Work Environment,SRC-4968,0.61,Pending,None,2026-08-16 12:08:18
+HR-588,EMP-295,HR,The office environment could be improved,Work Environment,SRC-7765,0.86,Pending,None,2026-08-30 04:20:18
+HR-589,EMP-613,Customer Support,The workplace environment is comfortable,Work Environment,SRC-3262,0.8,Pending,None,2026-09-06 00:44:18
+HR-590,EMP-432,Operations,We need a better working environment,Work Environment,SRC-3837,0.77,Pending,None,2026-09-04 18:25:18
+HR-591,EMP-450,Marketing,Pay should be reviewed regularly,Compensation,SRC-8932,0.67,Pending,None,2026-08-22 17:21:18
+HR-592,EMP-385,Marketing,We need better support from managers,Management,SRC-4396,0.86,Pending,None,2026-09-02 18:13:18
+HR-593,EMP-424,Sales,Pay should be reviewed regularly,Compensation,SRC-5715,0.65,Pending,None,2026-09-05 05:24:18
+HR-594,EMP-488,Sales,Employees need better compensation,Compensation,SRC-5758,0.62,Pending,None,2026-08-15 02:25:18
+HR-595,EMP-454,Sales,There should be clearer promotion opportunities,Career Growth,SRC-4505,0.68,Pending,None,2026-09-05 00:22:18
+HR-596,EMP-377,Marketing,The workload is too high,Workload,SRC-4920,0.69,Pending,None,2026-09-04 16:08:18
+HR-597,EMP-331,Operations,There should be better communication between departments,Communication,SRC-6411,0.87,Pending,None,2026-08-16 01:55:18
+HR-598,EMP-797,Customer Support,Manager,Unclear,SRC-3587,0.34,Pending,None,2026-09-02 03:41:18
+HR-599,EMP-588,Operations,We need better support from managers,Management,SRC-5676,0.85,Pending,None,2026-08-15 13:48:18
+HR-600,EMP-767,Marketing,More training opportunities are needed,Career Growth,SRC-3868,0.76,Pending,None,2026-08-19 12:06:18
+HR-601,EMP-137,Customer Support,The office environment could be improved,Work Environment,SRC-5742,0.93,Pending,None,2026-08-11 22:13:18
+HR-602,EMP-405,Marketing,We need better support from managers,Management,SRC-8444,0.98,Pending,None,2026-09-05 05:31:18
+HR-603,EMP-636,Sales,Some employees have too much work,Workload,SRC-8668,0.7,Pending,None,2026-08-16 15:08:18
+HR-604,EMP-438,IT,We need more learning programs,Career Growth,SRC-4050,0.61,Pending,None,2026-08-26 20:18:18
+HR-605,EMP-909,Finance,Employees need better compensation,Compensation,SRC-3875,0.83,Pending,None,2026-09-09 13:45:18
+HR-606,EMP-515,Customer Support,Managers should give more feedback,Management,SRC-7567,0.85,Pending,None,2026-08-19 21:55:18
+HR-607,EMP-243,Sales,The workload is too high,Workload,SRC-5272,0.75,Pending,None,2026-08-31 20:03:18
+HR-608,EMP-871,Finance,Leadership can improve employee support,Management,SRC-1187,0.7,Pending,None,2026-08-27 20:49:18
+HR-609,EMP-809,IT,Not sure about this,Unclear,SRC-8625,0.31,Pending,None,2026-08-29 22:55:18
+HR-610,EMP-802,Marketing,We need more learning programs,Career Growth,SRC-2923,0.84,Pending,None,2026-08-24 22:21:18
+HR-611,EMP-476,Marketing,We need better workload distribution,Workload,SRC-3509,0.77,Pending,None,2026-09-08 01:43:18
+HR-612,EMP-482,Sales,The work environment needs improvement,Work Environment,SRC-4578,0.89,Pending,None,2026-09-07 14:53:18
+HR-613,EMP-994,Customer Support,There are some issues,Unclear,SRC-9653,0.45,Pending,None,2026-08-15 01:24:18
+HR-614,EMP-677,HR,Nothing specific,Unclear,SRC-9281,0.27,Pending,None,2026-09-04 22:16:18
+HR-615,EMP-253,IT,Hard work should be recognized,Recognition,SRC-2904,0.86,Pending,None,2026-09-07 01:03:18
+HR-616,EMP-600,HR,The workplace environment is comfortable,Work Environment,SRC-8429,0.65,Pending,None,2026-08-30 09:51:18
+HR-617,EMP-567,Marketing,There are some issues,Unclear,SRC-6049,0.45,Pending,None,2026-08-29 12:34:18
+HR-618,EMP-360,Customer Support,It is okay,Unclear,SRC-2196,0.22,Pending,None,2026-08-27 04:25:18
+HR-619,EMP-817,HR,Need better internal communication,Communication,SRC-8734,0.61,Pending,None,2026-08-30 02:41:18
+HR-620,EMP-284,Customer Support,Better,Unclear,SRC-7887,0.33,Pending,None,2026-08-28 21:52:18
+HR-621,EMP-559,Customer Support,The workplace facilities are good,Work Environment,SRC-2314,0.86,Pending,None,2026-09-05 01:09:18
+HR-622,EMP-236,Operations,Important information is not shared on time,Communication,SRC-9802,0.75,Pending,None,2026-08-17 07:11:18
+HR-623,EMP-845,IT,Salary structure could be improved,Compensation,SRC-5888,0.78,Pending,None,2026-09-05 06:46:18
+HR-624,EMP-534,Marketing,Too many tasks are assigned at once,Workload,SRC-8546,0.73,Pending,None,2026-08-24 01:10:18
+HR-625,EMP-293,Operations,There should be better communication between departments,Communication,SRC-1256,0.69,Pending,None,2026-08-14 13:35:18
+HR-626,EMP-203,Marketing,Things could be better,Unclear,SRC-5009,0.46,Pending,None,2026-08-29 19:28:18
+HR-627,EMP-549,IT,Salary structure could be improved,Compensation,SRC-3295,0.79,Pending,None,2026-08-24 16:03:18
+HR-628,EMP-339,Customer Support,We need better employee appreciation,Recognition,SRC-6253,0.69,Pending,None,2026-08-18 00:34:18
+HR-629,EMP-776,Marketing,We need better support from managers,Management,SRC-1998,0.81,Pending,None,2026-09-07 10:21:18
+HR-630,EMP-852,IT,The work environment needs improvement,Work Environment,SRC-9120,0.62,Pending,None,2026-08-27 04:17:18
+HR-631,EMP-758,Operations,We need better employee appreciation,Recognition,SRC-7821,0.76,Pending,None,2026-08-25 03:39:18
+HR-632,EMP-485,IT,The office environment could be improved,Work Environment,SRC-4692,0.71,Pending,None,2026-08-18 01:46:18
+HR-633,EMP-925,Sales,Hard work should be recognized,Recognition,SRC-7824,0.81,Pending,None,2026-08-17 14:33:18
+HR-634,EMP-497,IT,Managers should give more feedback,Management,SRC-8369,0.92,Pending,None,2026-08-15 17:05:18
+HR-635,EMP-648,Operations,Teams should communicate more clearly,Communication,SRC-7179,0.86,Pending,None,2026-09-07 22:39:18
+HR-636,EMP-140,Customer Support,Nothing specific,Unclear,SRC-4555,0.37,Pending,None,2026-08-26 15:47:18
+HR-637,EMP-410,HR,The workload is too high,Workload,SRC-8846,0.95,Pending,None,2026-09-08 00:16:18
+HR-638,EMP-820,IT,Some employees have too much work,Workload,SRC-6269,0.89,Pending,None,2026-08-28 19:53:18
+HR-639,EMP-577,Marketing,We need better support from managers,Management,SRC-6892,0.79,Pending,None,2026-09-03 03:15:18
+HR-640,EMP-577,HR,There should be clearer promotion opportunities,Career Growth,SRC-6246,0.95,Pending,None,2026-08-28 09:00:18
+HR-641,EMP-420,Sales,It is okay,Unclear,SRC-3390,0.21,Pending,None,2026-09-05 16:27:18
+HR-642,EMP-698,Marketing,Management should listen to employees,Management,SRC-4214,0.73,Pending,None,2026-08-28 18:59:18
+HR-643,EMP-683,Customer Support,We need better employee appreciation,Recognition,SRC-5216,0.89,Pending,None,2026-09-02 17:48:18
+HR-644,EMP-840,Operations,The office environment could be improved,Work Environment,SRC-6770,0.66,Pending,None,2026-09-05 09:04:18
+HR-645,EMP-600,IT,Employees should be appreciated more,Recognition,SRC-9584,0.61,Pending,None,2026-08-14 21:17:18
+HR-646,EMP-937,Operations,Things could be better,Unclear,SRC-7756,0.25,Pending,None,2026-09-09 04:59:18
+HR-647,EMP-336,HR,Important information is not shared on time,Communication,SRC-9285,0.77,Pending,None,2026-08-14 06:07:18
+HR-648,EMP-732,Operations,Hard work should be recognized,Recognition,SRC-8993,0.61,Pending,None,2026-09-04 17:25:18
+HR-649,EMP-664,Sales,Nothing specific,Unclear,SRC-5501,0.39,Pending,None,2026-08-24 13:14:18
+HR-650,EMP-117,Marketing,There should be clearer promotion opportunities,Career Growth,SRC-3937,0.64,Pending,None,2026-08-15 21:18:18
+HR-651,EMP-636,IT,Employees deserve more recognition,Recognition,SRC-5135,0.91,Pending,None,2026-08-23 16:05:18
+HR-652,EMP-914,Sales,No clear opinion,Unclear,SRC-8520,0.4,Pending,None,2026-08-21 18:47:18
+HR-653,EMP-407,Operations,Need better internal communication,Communication,SRC-2531,0.75,Pending,None,2026-08-28 16:04:18
+HR-654,EMP-665,Sales,Things could be better,Unclear,SRC-3807,0.23,Pending,None,2026-08-31 06:02:18
+HR-655,EMP-760,Customer Support,Salary structure could be improved,Compensation,SRC-9653,0.95,Pending,None,2026-08-21 23:03:18
+HR-656,EMP-316,Customer Support,Hard work should be recognized,Recognition,SRC-5441,0.62,Pending,None,2026-08-14 21:18:18
+HR-657,EMP-800,Finance,Employees should be appreciated more,Recognition,SRC-3938,0.95,Pending,None,2026-08-25 19:36:18
+HR-658,EMP-116,IT,Compensation should reflect responsibilities,Compensation,SRC-2260,0.71,Pending,None,2026-09-06 04:05:18
+HR-659,EMP-346,Marketing,The work environment needs improvement,Work Environment,SRC-6435,0.75,Pending,None,2026-08-17 20:57:18
+HR-660,EMP-909,Operations,We need better employee appreciation,Recognition,SRC-1879,0.64,Pending,None,2026-08-22 01:39:18
+HR-661,EMP-958,HR,Benefits could be improved,Compensation,SRC-7499,0.97,Pending,None,2026-08-26 08:35:18
+HR-662,EMP-130,Operations,The workplace facilities are good,Work Environment,SRC-4737,0.74,Pending,None,2026-08-28 14:09:18
+HR-663,EMP-542,IT,There should be clearer promotion opportunities,Career Growth,SRC-2404,0.89,Pending,None,2026-08-24 22:43:18
+HR-664,EMP-917,IT,Teams should communicate more clearly,Communication,SRC-3526,0.74,Pending,None,2026-09-09 08:29:18
+HR-665,EMP-257,Operations,Managers should give more feedback,Management,SRC-2499,0.6,Pending,None,2026-08-25 12:48:18
+HR-666,EMP-555,Finance,Important information is not shared on time,Communication,SRC-2430,0.67,Pending,None,2026-08-31 22:21:18
+HR-667,EMP-670,Marketing,Need better internal communication,Communication,SRC-2468,0.73,Pending,None,2026-08-15 17:45:18
+HR-668,EMP-711,Marketing,Compensation should reflect responsibilities,Compensation,SRC-1202,0.71,Pending,None,2026-08-29 03:40:18
+HR-669,EMP-897,HR,Good work should receive more recognition,Recognition,SRC-9537,0.66,Pending,None,2026-08-28 19:57:18
+HR-670,EMP-273,IT,Managers should communicate expectations clearly,Management,SRC-3390,0.62,Pending,None,2026-08-31 06:52:18
+HR-671,EMP-382,Sales,Salary structure could be improved,Compensation,SRC-6916,0.7,Pending,None,2026-08-22 17:26:18
+HR-672,EMP-838,Operations,Good work should receive more recognition,Recognition,SRC-8501,0.64,Pending,None,2026-08-25 08:52:18
+HR-673,EMP-106,Sales,Hard work should be recognized,Recognition,SRC-6399,0.77,Pending,None,2026-08-31 02:26:18
+HR-674,EMP-935,Customer Support,Good work should receive more recognition,Recognition,SRC-5922,0.72,Pending,None,2026-08-20 15:29:18
+HR-675,EMP-590,Finance,We need a better working environment,Work Environment,SRC-5775,0.88,Pending,None,2026-09-09 07:23:18
+HR-676,EMP-602,Marketing,Managers should communicate expectations clearly,Management,SRC-5592,0.91,Pending,None,2026-08-29 09:17:18
+HR-677,EMP-473,HR,Some employees have too much work,Workload,SRC-9939,0.67,Pending,None,2026-09-05 12:57:18
+HR-678,EMP-127,Operations,Employees need better career growth opportunities,Career Growth,SRC-8183,0.9,Pending,None,2026-08-14 15:38:18
+HR-679,EMP-938,Customer Support,The workplace facilities are good,Work Environment,SRC-3280,0.84,Pending,None,2026-08-22 12:27:18
+HR-680,EMP-358,Operations,The workplace facilities are good,Work Environment,SRC-2211,0.77,Pending,None,2026-09-07 17:12:18
+HR-681,EMP-590,Marketing,Hard work should be recognized,Recognition,SRC-9907,0.61,Pending,None,2026-08-27 20:48:18
+HR-682,EMP-818,Customer Support,More training opportunities are needed,Career Growth,SRC-2791,0.89,Pending,None,2026-09-10 10:22:18
+HR-683,EMP-780,Finance,Employees should be appreciated more,Recognition,SRC-7547,0.97,Pending,None,2026-08-26 14:17:18
+HR-684,EMP-915,Sales,,Unclear,SRC-5239,0.28,Pending,None,2026-09-04 02:45:18
+HR-685,EMP-671,Marketing,We need better workload distribution,Workload,SRC-7129,0.75,Pending,None,2026-09-07 06:59:18
+HR-686,EMP-807,Marketing,There should be better communication between departments,Communication,SRC-2712,0.71,Pending,None,2026-08-15 09:52:18
+HR-687,EMP-218,Customer Support,Work pressure is increasing,Workload,SRC-6110,0.73,Pending,None,2026-08-20 22:03:18
+HR-688,EMP-633,Sales,There should be better communication between departments,Communication,SRC-8412,0.72,Pending,None,2026-08-25 04:04:18
+HR-689,EMP-145,Customer Support,Teams should communicate more clearly,Communication,SRC-2791,0.86,Pending,None,2026-08-18 23:37:18
+HR-690,EMP-858,IT,Good work should receive more recognition,Recognition,SRC-6422,0.81,Pending,None,2026-09-01 12:47:18
+HR-691,EMP-337,Customer Support,Too many tasks are assigned at once,Workload,SRC-8080,0.75,Pending,None,2026-09-08 10:52:18
+HR-692,EMP-302,Sales,The workplace environment is comfortable,Work Environment,SRC-4519,0.68,Pending,None,2026-08-14 08:26:18
+HR-693,EMP-691,HR,Good work should receive more recognition,Recognition,SRC-6993,0.72,Pending,None,2026-09-01 07:52:18
+HR-694,EMP-216,Finance,The work environment needs improvement,Work Environment,SRC-6134,0.83,Pending,None,2026-09-08 07:48:18
+HR-695,EMP-501,Marketing,Communication...,Unclear,SRC-8501,0.42,Pending,None,2026-08-25 00:59:18
+HR-696,EMP-729,Marketing,Maybe some changes are needed,Unclear,SRC-6131,0.24,Pending,None,2026-08-25 09:39:18
+HR-697,EMP-219,IT,Some employees have too much work,Workload,SRC-7364,0.76,Pending,None,2026-08-17 18:41:18
+HR-698,EMP-688,Sales,The work environment needs improvement,Work Environment,SRC-3838,0.81,Pending,None,2026-09-02 18:55:18
+HR-699,EMP-395,IT,Compensation should reflect responsibilities,Compensation,SRC-1878,0.93,Pending,None,2026-08-11 22:34:18
+HR-700,EMP-596,IT,The work environment needs improvement,Work Environment,SRC-9281,0.85,Pending,None,2026-08-30 02:59:18
+HR-701,EMP-801,Sales,Compensation should reflect responsibilities,Compensation,SRC-9006,0.66,Pending,None,2026-09-06 05:39:18
+HR-702,EMP-131,Customer Support,Managers should give more feedback,Management,SRC-5503,0.69,Pending,None,2026-08-24 15:24:18
+HR-703,EMP-272,Customer Support,There should be clearer promotion opportunities,Career Growth,SRC-9369,0.64,Pending,None,2026-08-16 16:50:18
+HR-704,EMP-374,Customer Support,Leadership can improve employee support,Management,SRC-1681,0.89,Pending,None,2026-08-31 14:11:18
+HR-705,EMP-659,IT,Important information is not shared on time,Communication,SRC-5877,0.93,Pending,None,2026-08-12 23:18:18
+HR-706,EMP-560,Finance,Salary structure could be improved,Compensation,SRC-8193,0.93,Pending,None,2026-08-16 20:19:18
+HR-707,EMP-894,Customer Support,Benefits could be improved,Compensation,SRC-6744,0.93,Pending,None,2026-09-08 06:40:18
+HR-708,EMP-747,Sales,Too many tasks are assigned at once,Workload,SRC-4390,0.91,Pending,None,2026-09-06 10:46:18
+HR-709,EMP-459,Marketing,Good work should receive more recognition,Recognition,SRC-6302,0.97,Pending,None,2026-08-24 19:44:18
+HR-710,EMP-396,Marketing,Benefits could be improved,Compensation,SRC-2560,0.65,Pending,None,2026-08-30 05:40:18
+HR-711,EMP-160,Finance,Too many tasks are assigned at once,Workload,SRC-5090,0.66,Pending,None,2026-08-26 03:54:18
+HR-712,EMP-948,IT,There should be clearer promotion opportunities,Career Growth,SRC-9019,0.65,Pending,None,2026-09-09 06:51:18
+HR-713,EMP-375,Operations,The workplace environment is comfortable,Work Environment,SRC-2525,0.75,Pending,None,2026-08-24 03:59:18
+HR-714,EMP-811,Finance,We need a better working environment,Work Environment,SRC-1040,0.93,Pending,None,2026-08-15 17:50:18
+HR-715,EMP-848,Sales,We need more learning programs,Career Growth,SRC-2037,0.9,Pending,None,2026-08-29 14:30:18
+HR-716,EMP-323,Sales,We need a better working environment,Work Environment,SRC-6289,0.91,Pending,None,2026-08-26 21:01:18
+HR-717,EMP-660,Marketing,Not good,Unclear,SRC-8951,0.48,Pending,None,2026-08-13 16:58:18
+HR-718,EMP-147,HR,Compensation should reflect responsibilities,Compensation,SRC-1266,0.65,Pending,None,2026-08-18 16:39:18
+HR-719,EMP-551,Sales,No clear opinion,Unclear,SRC-4314,0.55,Pending,None,2026-08-17 12:11:18
+HR-720,EMP-765,Finance,Managers should give more feedback,Management,SRC-6905,0.7,Pending,None,2026-08-28 10:15:18
+HR-721,EMP-780,Operations,We need a better working environment,Work Environment,SRC-4836,0.76,Pending,None,2026-08-15 15:42:18
+HR-722,EMP-820,HR,There are some issues,Unclear,SRC-2276,0.25,Pending,None,2026-08-21 19:09:18
+HR-723,EMP-631,Operations,Teams should communicate more clearly,Communication,SRC-2975,0.98,Pending,None,2026-08-30 17:22:18
+HR-724,EMP-810,IT,We need better workload distribution,Workload,SRC-2463,0.88,Pending,None,2026-08-16 03:58:18
+HR-725,EMP-205,Finance,Management should listen to employees,Management,SRC-7270,0.89,Pending,None,2026-08-17 13:31:18
+HR-726,EMP-756,Operations,Manager,Unclear,SRC-1138,0.41,Pending,None,2026-08-18 23:21:18
+HR-727,EMP-550,Finance,Employees need better career growth opportunities,Career Growth,SRC-7745,0.83,Pending,None,2026-08-31 15:18:18
+HR-728,EMP-980,IT,Not sure about this,Unclear,SRC-3293,0.46,Pending,None,2026-09-07 08:04:18
+HR-729,EMP-847,Sales,We need a better working environment,Work Environment,SRC-3290,0.69,Pending,None,2026-09-09 20:11:18
+HR-730,EMP-186,IT,Employees deserve more recognition,Recognition,SRC-5668,0.9,Pending,None,2026-08-12 17:23:18
+HR-731,EMP-968,Customer Support,Management should listen to employees,Management,SRC-9482,0.83,Pending,None,2026-08-20 02:09:18
+HR-732,EMP-865,Sales,Important information is not shared on time,Communication,SRC-9108,0.75,Pending,None,2026-08-22 11:25:18
+HR-733,EMP-611,Operations,Employees should be appreciated more,Recognition,SRC-6916,0.95,Pending,None,2026-08-17 12:15:18
+HR-734,EMP-496,Customer Support,We need a better working environment,Work Environment,SRC-9951,0.86,Pending,None,2026-09-01 22:34:18
+HR-735,EMP-888,HR,Not sure about this,Unclear,SRC-1225,0.29,Pending,None,2026-08-13 07:36:18
+HR-736,EMP-161,Customer Support,Leadership can improve employee support,Management,SRC-7806,0.76,Pending,None,2026-08-29 19:29:18
+HR-737,EMP-184,Operations,Good work should receive more recognition,Recognition,SRC-5546,0.63,Pending,None,2026-08-15 02:24:18
+HR-738,EMP-623,IT,Some employees have too much work,Workload,SRC-6353,0.75,Pending,None,2026-09-09 08:55:18
+HR-739,EMP-881,Customer Support,More training opportunities are needed,Career Growth,SRC-6081,0.87,Pending,None,2026-08-22 08:45:18
+HR-740,EMP-159,IT,No clear opinion,Unclear,SRC-2900,0.36,Pending,None,2026-09-08 05:06:18
+HR-741,EMP-156,Finance,Employees need better career growth opportunities,Career Growth,SRC-2956,0.6,Pending,None,2026-08-17 17:58:18
+HR-742,EMP-818,HR,Leadership can improve employee support,Management,SRC-9474,0.9,Pending,None,2026-08-23 07:16:18
+HR-743,EMP-270,Finance,Not good,Unclear,SRC-5403,0.46,Pending,None,2026-08-16 21:02:18
+HR-744,EMP-889,HR,We need a better working environment,Work Environment,SRC-9582,0.62,Pending,None,2026-09-06 17:57:18
+HR-745,EMP-742,HR,We need better employee appreciation,Recognition,SRC-1908,0.79,Pending,None,2026-09-06 07:17:18
+HR-746,EMP-270,Finance,Salary structure could be improved,Compensation,SRC-2889,0.69,Pending,None,2026-09-03 15:52:18
+HR-747,EMP-102,HR,Important information is not shared on time,Communication,SRC-1753,0.78,Pending,None,2026-08-28 22:24:18
+HR-748,EMP-253,IT,Salary structure could be improved,Compensation,SRC-7870,0.69,Pending,None,2026-08-22 19:16:18
+HR-749,EMP-526,Operations,Salary structure could be improved,Compensation,SRC-7108,0.65,Pending,None,2026-08-13 21:37:18
+HR-750,EMP-283,IT,There should be better communication between departments,Communication,SRC-2129,0.93,Pending,None,2026-08-24 08:27:18
+HR-751,EMP-892,Customer Support,We need regular team updates,Communication,SRC-8483,0.6,Pending,None,2026-08-20 15:17:18
+HR-752,EMP-398,Marketing,More professional development would help,Career Growth,SRC-4974,0.78,Pending,None,2026-09-07 10:23:18
+HR-753,EMP-605,Customer Support,More professional development would help,Career Growth,SRC-5016,0.66,Pending,None,2026-08-30 03:58:18
+HR-754,EMP-124,IT,More training opportunities are needed,Career Growth,SRC-6488,0.6,Pending,None,2026-09-10 10:03:18
+HR-755,EMP-485,Customer Support,Managers should give more feedback,Management,SRC-4361,0.8,Pending,None,2026-08-22 08:14:18
+HR-756,EMP-529,Sales,Work pressure is increasing,Workload,SRC-2524,0.62,Pending,None,2026-08-22 00:55:18
+HR-757,EMP-965,Marketing,Managers should communicate expectations clearly,Management,SRC-2391,0.82,Pending,None,2026-09-03 12:09:18
+HR-758,EMP-236,Operations,We need regular team updates,Communication,SRC-2020,0.77,Pending,None,2026-08-17 10:52:18
+HR-759,EMP-342,Finance,Managers should communicate expectations clearly,Management,SRC-6345,0.72,Pending,None,2026-08-23 21:08:18
+HR-760,EMP-339,HR,Some employees have too much work,Workload,SRC-2785,0.66,Pending,None,2026-08-18 23:38:18
+HR-761,EMP-560,Sales,We need regular team updates,Communication,SRC-6870,0.97,Pending,None,2026-08-20 22:53:18
+HR-762,EMP-562,Finance,Salary structure could be improved,Compensation,SRC-2481,0.66,Pending,None,2026-08-25 08:23:18
+HR-763,EMP-946,Operations,Important information is not shared on time,Communication,SRC-6370,0.66,Pending,None,2026-08-22 19:13:18
+HR-764,EMP-464,Sales,We need more learning programs,Career Growth,SRC-5262,0.91,Pending,None,2026-08-19 10:00:18
+HR-765,EMP-131,Sales,Employees deserve more recognition,Recognition,SRC-5093,0.64,Pending,None,2026-08-16 03:24:18
+HR-766,EMP-923,Customer Support,,Unclear,SRC-2010,0.49,Pending,None,2026-08-21 14:53:18
+HR-767,EMP-233,IT,Managers should give more feedback,Management,SRC-5240,0.95,Pending,None,2026-08-14 22:00:18
+HR-768,EMP-122,HR,There should be clearer promotion opportunities,Career Growth,SRC-3110,0.63,Pending,None,2026-08-26 14:14:18
+HR-769,EMP-225,HR,Important information is not shared on time,Communication,SRC-8096,0.91,Pending,None,2026-08-29 11:32:18
+HR-770,EMP-608,HR,The office environment could be improved,Work Environment,SRC-6799,0.68,Pending,None,2026-08-20 00:31:18
+HR-771,EMP-381,Finance,The workload is too high,Workload,SRC-5026,0.85,Pending,None,2026-09-03 05:01:18
+HR-772,EMP-521,Marketing,Teams should communicate more clearly,Communication,SRC-7275,0.65,Pending,None,2026-08-20 13:57:18
+HR-773,EMP-758,Customer Support,More professional development would help,Career Growth,SRC-1319,0.98,Pending,None,2026-08-27 20:20:18
+HR-774,EMP-591,Marketing,Leadership can improve employee support,Management,SRC-9231,0.72,Pending,None,2026-08-23 19:29:18
+HR-775,EMP-284,HR,The workload is too high,Workload,SRC-5602,0.62,Pending,None,2026-09-01 23:18:18
+HR-776,EMP-642,Finance,Too many tasks are assigned at once,Workload,SRC-2640,0.69,Pending,None,2026-08-22 11:30:18
+HR-777,EMP-372,Marketing,More training opportunities are needed,Career Growth,SRC-4594,0.82,Pending,None,2026-08-29 04:21:18
+HR-778,EMP-463,Customer Support,Too many tasks are assigned at once,Workload,SRC-4875,0.83,Pending,None,2026-08-27 19:59:18
+HR-779,EMP-705,HR,Leadership can improve employee support,Management,SRC-3328,0.81,Pending,None,2026-08-20 01:42:18
+HR-780,EMP-956,Customer Support,The work environment needs improvement,Work Environment,SRC-6063,0.67,Pending,None,2026-08-13 05:33:18
+HR-781,EMP-192,HR,The workload is too high,Workload,SRC-9625,0.78,Pending,None,2026-08-26 14:26:18
+HR-782,EMP-728,IT,Management should listen to employees,Management,SRC-6301,0.62,Pending,None,2026-08-18 05:26:18
+HR-783,EMP-700,Operations,Salary structure could be improved,Compensation,SRC-9622,0.93,Pending,None,2026-08-14 19:19:18
+HR-784,EMP-482,Operations,The work environment needs improvement,Work Environment,SRC-2655,0.73,Pending,None,2026-08-26 04:28:18
+HR-785,EMP-239,IT,The workplace facilities are good,Work Environment,SRC-6198,0.67,Pending,None,2026-09-06 01:55:18
+HR-786,EMP-810,Marketing,Some employees have too much work,Workload,SRC-3872,0.74,Pending,None,2026-08-24 21:47:18
+HR-787,EMP-230,IT,More professional development would help,Career Growth,SRC-7415,0.92,Pending,None,2026-09-06 07:56:18
+HR-788,EMP-133,IT,Benefits could be improved,Compensation,SRC-4619,0.84,Pending,None,2026-08-16 05:48:18
+HR-789,EMP-608,IT,Important information is not shared on time,Communication,SRC-6682,0.97,Pending,None,2026-08-19 03:28:18
+HR-790,EMP-751,HR,We need more learning programs,Career Growth,SRC-8317,0.6,Pending,None,2026-08-21 01:07:18
+HR-791,EMP-355,Operations,Could improve,Unclear,SRC-2770,0.45,Pending,None,2026-08-13 16:41:18
+HR-792,EMP-495,Sales,We need better workload distribution,Workload,SRC-9078,0.94,Pending,None,2026-08-27 11:44:18
+HR-793,EMP-659,Sales,Workload,Unclear,SRC-4695,0.26,Pending,None,2026-08-14 20:36:18
+HR-794,EMP-918,Customer Support,Things could be better,Unclear,SRC-6221,0.29,Pending,None,2026-08-16 06:29:18
+HR-795,EMP-175,Finance,The office environment could be improved,Work Environment,SRC-2228,0.81,Pending,None,2026-08-15 17:47:18
+HR-796,EMP-446,Marketing,The workplace environment is comfortable,Work Environment,SRC-8066,0.96,Pending,None,2026-08-19 00:19:18
+HR-797,EMP-721,Sales,Teams should communicate more clearly,Communication,SRC-4367,0.97,Pending,None,2026-08-30 03:08:18
+HR-798,EMP-813,Marketing,More professional development would help,Career Growth,SRC-5346,0.85,Pending,None,2026-08-25 00:56:18
+HR-799,EMP-343,HR,Nothing specific,Unclear,SRC-9043,0.25,Pending,None,2026-08-27 22:13:18
+HR-800,EMP-103,Sales,There are some issues,Unclear,SRC-4271,0.23,Pending,None,2026-08-20 22:08:18
+HR-801,EMP-274,Operations,There should be better communication between departments,Communication,SRC-2892,0.72,Pending,None,2026-08-29 14:14:18
+HR-802,EMP-582,Sales,Managers should give more feedback,Management,SRC-9914,0.75,Pending,None,2026-08-28 09:21:18
+HR-803,EMP-490,Finance,Teams should communicate more clearly,Communication,SRC-8204,0.78,Pending,None,2026-08-21 19:13:18
+HR-804,EMP-957,Finance,The workload is too high,Workload,SRC-2404,0.85,Pending,None,2026-09-05 03:30:18
+HR-805,EMP-523,Customer Support,Employees should be appreciated more,Recognition,SRC-7342,0.91,Pending,None,2026-08-30 13:21:18
+HR-806,EMP-648,Operations,The work environment needs improvement,Work Environment,SRC-4860,0.78,Pending,None,2026-08-15 02:20:18
+HR-807,EMP-504,Customer Support,Employees deserve more recognition,Recognition,SRC-9467,0.9,Pending,None,2026-09-08 17:36:18
+HR-808,EMP-250,HR,The office environment could be improved,Work Environment,SRC-3738,0.97,Pending,None,2026-08-20 06:36:18
+HR-809,EMP-229,HR,There should be clearer promotion opportunities,Career Growth,SRC-4308,0.98,Pending,None,2026-09-09 01:11:18
+HR-810,EMP-251,Customer Support,Managers should give more feedback,Management,SRC-2425,0.75,Pending,None,2026-08-29 14:07:18
+HR-811,EMP-665,Finance,Hard work should be recognized,Recognition,SRC-1202,0.9,Pending,None,2026-09-08 20:38:18
+HR-812,EMP-701,Marketing,There should be better communication between departments,Communication,SRC-3451,0.66,Pending,None,2026-09-07 06:16:18
+HR-813,EMP-696,Customer Support,Need better internal communication,Communication,SRC-2654,0.9,Pending,None,2026-09-04 21:09:18
+HR-814,EMP-452,Sales,There should be clearer promotion opportunities,Career Growth,SRC-8750,0.61,Pending,None,2026-08-24 00:55:18
+HR-815,EMP-512,IT,There should be clearer promotion opportunities,Career Growth,SRC-1635,0.75,Pending,None,2026-08-26 14:10:18
+HR-816,EMP-807,IT,There are some issues,Unclear,SRC-5400,0.51,Pending,None,2026-08-12 10:11:18
+HR-817,EMP-445,Customer Support,We need better support from managers,Management,SRC-9054,0.93,Pending,None,2026-08-15 23:22:18
+HR-818,EMP-989,IT,Better,Unclear,SRC-8259,0.47,Pending,None,2026-08-26 02:34:18
+HR-819,EMP-375,Operations,More training opportunities are needed,Career Growth,SRC-4079,0.77,Pending,None,2026-08-30 00:50:18
+HR-820,EMP-858,Sales,Pay should be reviewed regularly,Compensation,SRC-1920,0.8,Pending,None,2026-08-18 17:44:18
+HR-821,EMP-167,Finance,The office environment could be improved,Work Environment,SRC-9589,0.93,Pending,None,2026-08-12 19:43:18
+HR-822,EMP-277,IT,The workload is too high,Workload,SRC-5087,0.61,Pending,None,2026-08-13 19:19:18
+HR-823,EMP-469,Operations,Managers should communicate expectations clearly,Management,SRC-9275,0.75,Pending,None,2026-08-17 03:24:18
+HR-824,EMP-797,HR,The work environment needs improvement,Work Environment,SRC-8308,0.67,Pending,None,2026-09-02 02:28:18
+HR-825,EMP-700,Marketing,Work pressure is increasing,Workload,SRC-2480,0.71,Pending,None,2026-08-29 02:19:18
+HR-826,EMP-150,IT,Employees need better compensation,Compensation,SRC-4626,0.85,Pending,None,2026-08-20 21:54:18
+HR-827,EMP-375,Operations,Need better internal communication,Communication,SRC-8767,0.95,Pending,None,2026-09-09 23:12:18
+HR-828,EMP-277,Marketing,Work pressure is increasing,Workload,SRC-6004,0.87,Pending,None,2026-09-09 18:08:18
+HR-829,EMP-381,Sales,Pay should be reviewed regularly,Compensation,SRC-8520,0.7,Pending,None,2026-09-01 17:51:18
+HR-830,EMP-409,Operations,Hard work should be recognized,Recognition,SRC-2676,0.6,Pending,None,2026-08-28 12:51:18
+HR-831,EMP-674,Operations,We need better support from managers,Management,SRC-2771,0.78,Pending,None,2026-08-26 19:24:18
+HR-832,EMP-383,Operations,We need better support from managers,Management,SRC-5895,0.67,Pending,None,2026-09-04 01:07:18
+HR-833,EMP-883,IT,Benefits could be improved,Compensation,SRC-7620,0.85,Pending,None,2026-08-17 20:56:18
+HR-834,EMP-838,HR,We need better support from managers,Management,SRC-7857,0.75,Pending,None,2026-08-13 02:40:18
+HR-835,EMP-697,Operations,Employees need better compensation,Compensation,SRC-6622,0.88,Pending,None,2026-08-21 14:58:18
+HR-836,EMP-802,Marketing,We need a better working environment,Work Environment,SRC-9311,0.71,Pending,None,2026-08-19 05:46:18
+HR-837,EMP-960,Operations,Work pressure is increasing,Workload,SRC-2599,0.78,Pending,None,2026-08-23 06:37:18
+HR-838,EMP-842,Customer Support,Work pressure is increasing,Workload,SRC-2463,0.68,Pending,None,2026-08-21 16:02:18
+HR-839,EMP-862,Customer Support,Pay should be reviewed regularly,Compensation,SRC-7089,0.7,Pending,None,2026-08-24 21:16:18
+HR-840,EMP-574,Customer Support,,Unclear,SRC-2166,0.37,Pending,None,2026-08-20 08:35:18
+HR-841,EMP-612,HR,The work environment needs improvement,Work Environment,SRC-5888,0.76,Pending,None,2026-08-18 08:47:18
+HR-842,EMP-240,IT,Hard work should be recognized,Recognition,SRC-3346,0.72,Pending,None,2026-08-19 17:05:18
+HR-843,EMP-897,HR,Employees need better career growth opportunities,Career Growth,SRC-6134,0.84,Pending,None,2026-08-11 17:14:18
+HR-844,EMP-562,Finance,Employees need better compensation,Compensation,SRC-3595,0.79,Pending,None,2026-08-15 12:15:18
+HR-845,EMP-232,Marketing,The workplace facilities are good,Work Environment,SRC-8029,0.97,Pending,None,2026-08-28 22:47:18
+HR-846,EMP-104,HR,We need more learning programs,Career Growth,SRC-1230,0.94,Pending,None,2026-09-04 16:07:18
+HR-847,EMP-295,HR,Employees need better career growth opportunities,Career Growth,SRC-4707,0.86,Pending,None,2026-08-27 04:13:18
+HR-848,EMP-419,IT,Manager,Unclear,SRC-6015,0.26,Pending,None,2026-08-13 14:02:18
+HR-849,EMP-405,Finance,Employees deserve more recognition,Recognition,SRC-9587,0.73,Pending,None,2026-08-17 14:14:18
+HR-850,EMP-450,Sales,Too many tasks are assigned at once,Workload,SRC-7609,0.61,Pending,None,2026-08-21 17:07:18
+HR-851,EMP-844,IT,We need regular team updates,Communication,SRC-9267,0.66,Pending,None,2026-08-28 04:30:18
+HR-852,EMP-828,Operations,We need a better working environment,Work Environment,SRC-9761,0.84,Pending,None,2026-09-07 12:49:18
+HR-853,EMP-149,Operations,Not good,Unclear,SRC-1323,0.22,Pending,None,2026-08-16 18:34:18
+HR-854,EMP-526,Sales,We need better employee appreciation,Recognition,SRC-8772,0.87,Pending,None,2026-08-20 20:33:18
+HR-855,EMP-811,Operations,Managers should communicate expectations clearly,Management,SRC-2654,0.85,Pending,None,2026-08-23 18:59:18
+HR-856,EMP-737,Marketing,The workplace environment is comfortable,Work Environment,SRC-9381,0.87,Pending,None,2026-08-16 20:41:18
+HR-857,EMP-389,HR,The office environment could be improved,Work Environment,SRC-4272,0.9,Pending,None,2026-09-04 07:30:18
+HR-858,EMP-306,Finance,Management should listen to employees,Management,SRC-1645,0.81,Pending,None,2026-08-20 22:57:18
+HR-859,EMP-804,Sales,Need better internal communication,Communication,SRC-2458,0.94,Pending,None,2026-09-06 15:13:18
+HR-860,EMP-785,Sales,,Unclear,SRC-9383,0.23,Pending,None,2026-08-16 02:44:18
+HR-861,EMP-362,Operations,We need better support from managers,Management,SRC-8606,0.62,Pending,None,2026-08-19 10:55:18
+HR-862,EMP-995,HR,We need better support from managers,Management,SRC-7979,0.88,Pending,None,2026-08-15 19:51:18
+HR-863,EMP-971,Customer Support,Important information is not shared on time,Communication,SRC-3793,0.72,Pending,None,2026-08-31 10:12:18
+HR-864,EMP-736,Finance,Teams should communicate more clearly,Communication,SRC-6615,0.67,Pending,None,2026-08-29 17:51:18
+HR-865,EMP-509,Sales,The workplace facilities are good,Work Environment,SRC-7909,0.85,Pending,None,2026-08-19 02:16:18
+HR-866,EMP-215,IT,Important information is not shared on time,Communication,SRC-2699,0.76,Pending,None,2026-09-07 09:21:18
+HR-867,EMP-594,Customer Support,The office environment could be improved,Work Environment,SRC-7221,0.9,Pending,None,2026-09-08 07:51:18
+HR-868,EMP-129,Customer Support,Employees need better compensation,Compensation,SRC-8914,0.95,Pending,None,2026-08-16 15:27:18
+HR-869,EMP-521,Sales,Could improve,Unclear,SRC-6148,0.2,Pending,None,2026-09-04 09:20:18
+HR-870,EMP-885,Operations,Good work should receive more recognition,Recognition,SRC-6542,0.8,Pending,None,2026-09-08 15:22:18
+HR-871,EMP-197,Sales,We need better workload distribution,Workload,SRC-6664,0.85,Pending,None,2026-09-09 16:41:18
+HR-872,EMP-494,IT,Employees deserve more recognition,Recognition,SRC-1894,0.6,Pending,None,2026-08-18 15:30:18
+HR-873,EMP-617,Customer Support,The office environment could be improved,Work Environment,SRC-2226,0.89,Pending,None,2026-08-26 02:19:18
+HR-874,EMP-346,Finance,We need regular team updates,Communication,SRC-4648,0.81,Pending,None,2026-08-28 17:40:18
+HR-875,EMP-512,Customer Support,The workplace facilities are good,Work Environment,SRC-8341,0.63,Pending,None,2026-09-03 04:32:18
+HR-876,EMP-557,Finance,Workload,Unclear,SRC-1291,0.24,Pending,None,2026-08-30 06:29:18
+HR-877,EMP-136,Marketing,Salary structure could be improved,Compensation,SRC-5990,0.94,Pending,None,2026-09-06 02:19:18
+HR-878,EMP-311,Operations,We need better support from managers,Management,SRC-1889,0.91,Pending,None,2026-09-01 04:29:18
+HR-879,EMP-439,Marketing,Hard work should be recognized,Recognition,SRC-6952,0.87,Pending,None,2026-08-16 16:38:18
+HR-880,EMP-199,Customer Support,Teams should communicate more clearly,Communication,SRC-6818,0.92,Pending,None,2026-08-24 19:01:18
+HR-881,EMP-660,Marketing,Need better internal communication,Communication,SRC-3689,0.79,Pending,None,2026-08-30 03:04:18
+HR-882,EMP-209,Finance,The workload is too high,Workload,SRC-7437,0.68,Pending,None,2026-08-20 04:15:18
+HR-883,EMP-833,Finance,Workload,Unclear,SRC-1761,0.52,Pending,None,2026-09-07 07:14:18
+HR-884,EMP-226,Customer Support,The work environment needs improvement,Work Environment,SRC-9260,0.65,Pending,None,2026-09-03 04:57:18
+HR-885,EMP-104,Marketing,Hard work should be recognized,Recognition,SRC-8912,0.95,Pending,None,2026-08-19 13:39:18
+HR-886,EMP-808,Marketing,Employees need better compensation,Compensation,SRC-2696,0.75,Pending,None,2026-09-07 20:03:18
+HR-887,EMP-720,Finance,The workplace facilities are good,Work Environment,SRC-5067,0.7,Pending,None,2026-08-27 02:35:18
+HR-888,EMP-401,Sales,We need better workload distribution,Workload,SRC-9393,0.71,Pending,None,2026-09-05 10:27:18
+HR-889,EMP-981,Finance,Good work should receive more recognition,Recognition,SRC-4291,0.68,Pending,None,2026-08-24 17:29:18
+HR-890,EMP-803,Finance,Too many tasks are assigned at once,Workload,SRC-9255,0.81,Pending,None,2026-09-09 11:44:18
+HR-891,EMP-430,Operations,Communication...,Unclear,SRC-8870,0.4,Pending,None,2026-08-30 12:05:18
+HR-892,EMP-790,Operations,We need better employee appreciation,Recognition,SRC-7920,0.91,Pending,None,2026-09-04 07:03:18
+HR-893,EMP-209,HR,Need better internal communication,Communication,SRC-4275,0.7,Pending,None,2026-08-18 19:53:18
+HR-894,EMP-393,Operations,Salary structure could be improved,Compensation,SRC-5835,0.68,Pending,None,2026-09-05 03:12:18
+HR-895,EMP-133,Finance,We need regular team updates,Communication,SRC-4675,0.88,Pending,None,2026-09-06 01:09:18
+HR-896,EMP-498,IT,Pay should be reviewed regularly,Compensation,SRC-1769,0.95,Pending,None,2026-08-29 03:24:18
+HR-897,EMP-526,Customer Support,Leadership can improve employee support,Management,SRC-1881,0.6,Pending,None,2026-08-22 22:37:18
+HR-898,EMP-307,Marketing,Compensation should reflect responsibilities,Compensation,SRC-4695,0.95,Pending,None,2026-09-09 23:29:18
+HR-899,EMP-476,Customer Support,More professional development would help,Career Growth,SRC-4218,0.89,Pending,None,2026-08-20 07:27:18
+HR-900,EMP-401,Sales,More training opportunities are needed,Career Growth,SRC-4063,0.97,Pending,None,2026-09-03 21:21:18
+HR-901,EMP-222,Sales,Could improve,Unclear,SRC-5329,0.25,Pending,None,2026-09-07 01:58:18
+HR-902,EMP-966,Finance,There are some issues,Unclear,SRC-3536,0.21,Pending,None,2026-08-26 04:29:18
+HR-903,EMP-711,HR,More professional development would help,Career Growth,SRC-5934,0.79,Pending,None,2026-09-06 13:36:18
+HR-904,EMP-663,Finance,I don't know,Unclear,SRC-9608,0.28,Pending,None,2026-08-19 20:56:18
+HR-905,EMP-633,HR,We need better workload distribution,Workload,SRC-9897,0.8,Pending,None,2026-08-15 16:31:18
+HR-906,EMP-457,IT,We need more learning programs,Career Growth,SRC-6424,0.74,Pending,None,2026-08-21 10:42:18
+HR-907,EMP-870,Marketing,Employees should be appreciated more,Recognition,SRC-2879,0.85,Pending,None,2026-08-31 18:53:18
+HR-908,EMP-346,Operations,Good work should receive more recognition,Recognition,SRC-1653,0.86,Pending,None,2026-08-26 02:38:18
+HR-909,EMP-490,Customer Support,We need a better working environment,Work Environment,SRC-9851,0.88,Pending,None,2026-08-12 15:05:18
+HR-910,EMP-629,Customer Support,Employees deserve more recognition,Recognition,SRC-8300,0.78,Pending,None,2026-08-24 23:53:18
+HR-911,EMP-767,IT,Need better internal communication,Communication,SRC-3742,0.97,Pending,None,2026-09-04 23:42:18
+HR-912,EMP-646,HR,Too many tasks are assigned at once,Workload,SRC-7950,0.92,Pending,None,2026-08-20 20:38:18
+HR-913,EMP-650,Customer Support,There should be clearer promotion opportunities,Career Growth,SRC-2181,0.88,Pending,None,2026-08-18 12:02:18
+HR-914,EMP-124,Sales,Need better internal communication,Communication,SRC-2200,0.62,Pending,None,2026-08-22 23:15:18
+HR-915,EMP-671,HR,Work pressure is increasing,Workload,SRC-7678,0.75,Pending,None,2026-09-09 04:27:18
+HR-916,EMP-514,Sales,The workplace environment is comfortable,Work Environment,SRC-9762,0.6,Pending,None,2026-09-08 15:30:18
+HR-917,EMP-164,Customer Support,Need better internal communication,Communication,SRC-6860,0.95,Pending,None,2026-08-16 08:01:18
+HR-918,EMP-396,Customer Support,Employees should be appreciated more,Recognition,SRC-5612,0.89,Pending,None,2026-08-31 10:09:18
+HR-919,EMP-490,Sales,There should be better communication between departments,Communication,SRC-3561,0.8,Pending,None,2026-08-17 17:03:18
+HR-920,EMP-864,Sales,Benefits could be improved,Compensation,SRC-5832,0.96,Pending,None,2026-08-18 01:28:18
+HR-921,EMP-405,Operations,Pay should be reviewed regularly,Compensation,SRC-1182,0.81,Pending,None,2026-09-05 18:23:18
+HR-922,EMP-244,HR,No clear opinion,Unclear,SRC-9800,0.39,Pending,None,2026-08-15 09:04:18
+HR-923,EMP-412,IT,We need more learning programs,Career Growth,SRC-4469,0.76,Pending,None,2026-09-09 21:37:18
+HR-924,EMP-971,Marketing,Need improvement,Unclear,SRC-4617,0.42,Pending,None,2026-08-23 00:09:18
+HR-925,EMP-298,HR,Benefits could be improved,Compensation,SRC-1891,0.92,Pending,None,2026-09-05 11:35:18
+HR-926,EMP-572,Operations,Managers should give more feedback,Management,SRC-5107,0.64,Pending,None,2026-09-06 22:15:18
+HR-927,EMP-598,Finance,Employees need better career growth opportunities,Career Growth,SRC-2639,0.71,Pending,None,2026-08-14 16:20:18
+HR-928,EMP-298,Finance,Leadership can improve employee support,Management,SRC-6008,0.86,Pending,None,2026-08-18 10:33:18
+HR-929,EMP-679,Marketing,Managers should communicate expectations clearly,Management,SRC-3762,0.6,Pending,None,2026-08-22 16:59:18
+HR-930,EMP-904,IT,There should be clearer promotion opportunities,Career Growth,SRC-5533,0.92,Pending,None,2026-08-17 14:47:18
+HR-931,EMP-795,Operations,The workplace facilities are good,Work Environment,SRC-8296,0.74,Pending,None,2026-08-25 09:45:18
+HR-932,EMP-598,Marketing,Better,Unclear,SRC-2343,0.49,Pending,None,2026-08-17 21:01:18
+HR-933,EMP-651,IT,More training opportunities are needed,Career Growth,SRC-2235,0.94,Pending,None,2026-09-03 14:04:18
+HR-934,EMP-746,HR,Hard work should be recognized,Recognition,SRC-4485,0.94,Pending,None,2026-09-05 14:35:18
+HR-935,EMP-366,Marketing,Hard work should be recognized,Recognition,SRC-3435,0.74,Pending,None,2026-08-21 16:00:18
+HR-936,EMP-890,Marketing,Management should listen to employees,Management,SRC-8613,0.79,Pending,None,2026-08-15 15:00:18
+HR-937,EMP-506,Finance,Employees need better career growth opportunities,Career Growth,SRC-3717,0.89,Pending,None,2026-08-17 21:25:18
+HR-938,EMP-556,IT,Good work should receive more recognition,Recognition,SRC-8921,0.96,Pending,None,2026-08-13 08:14:18
+HR-939,EMP-324,Customer Support,Teams should communicate more clearly,Communication,SRC-7052,0.69,Pending,None,2026-08-20 21:57:18
+HR-940,EMP-630,Customer Support,The workplace facilities are good,Work Environment,SRC-1760,0.62,Pending,None,2026-09-10 00:27:18
+HR-941,EMP-431,HR,We need better employee appreciation,Recognition,SRC-5314,0.82,Pending,None,2026-09-06 10:52:18
+HR-942,EMP-278,Sales,Leadership can improve employee support,Management,SRC-2275,0.8,Pending,None,2026-08-28 15:09:18
+HR-943,EMP-328,Marketing,Pay should be reviewed regularly,Compensation,SRC-8976,0.9,Pending,None,2026-09-08 00:03:18
+HR-944,EMP-106,Marketing,The office environment could be improved,Work Environment,SRC-4768,0.63,Pending,None,2026-09-09 18:56:18
+HR-945,EMP-387,IT,Work pressure is increasing,Workload,SRC-2938,0.85,Pending,None,2026-08-30 08:58:18
+HR-946,EMP-930,Finance,The workplace facilities are good,Work Environment,SRC-8848,0.68,Pending,None,2026-08-18 20:13:18
+HR-947,EMP-762,Customer Support,The workload is too high,Workload,SRC-3095,0.82,Pending,None,2026-08-18 20:05:18
+HR-948,EMP-237,Operations,Good work should receive more recognition,Recognition,SRC-1916,0.66,Pending,None,2026-08-19 16:44:18
+HR-949,EMP-629,Sales,Employees should be appreciated more,Recognition,SRC-5644,0.96,Pending,None,2026-08-21 08:40:18
+HR-950,EMP-559,Marketing,Compensation should reflect responsibilities,Compensation,SRC-3794,0.68,Pending,None,2026-08-30 04:46:18
+HR-951,EMP-715,IT,Employees need better compensation,Compensation,SRC-9369,0.7,Pending,None,2026-08-27 02:23:18
+HR-952,EMP-564,Marketing,We need better workload distribution,Workload,SRC-7315,0.65,Pending,None,2026-08-12 06:11:18
+HR-953,EMP-307,Marketing,Hard work should be recognized,Recognition,SRC-3450,0.83,Pending,None,2026-08-19 13:53:18
+HR-954,EMP-587,Marketing,Benefits could be improved,Compensation,SRC-9246,0.89,Pending,None,2026-08-15 17:53:18
+HR-955,EMP-593,Operations,Manager,Unclear,SRC-9835,0.49,Pending,None,2026-09-10 01:14:18
+HR-956,EMP-541,Marketing,Salary structure could be improved,Compensation,SRC-9680,0.76,Pending,None,2026-09-02 10:42:18
+HR-957,EMP-908,Customer Support,Employees deserve more recognition,Recognition,SRC-2600,0.76,Pending,None,2026-08-23 02:06:18
+HR-958,EMP-588,Customer Support,Salary structure could be improved,Compensation,SRC-5641,0.83,Pending,None,2026-09-05 05:59:18
+HR-959,EMP-518,Finance,More training opportunities are needed,Career Growth,SRC-9561,0.64,Pending,None,2026-08-11 19:57:18
+HR-960,EMP-484,Operations,Pay should be reviewed regularly,Compensation,SRC-7698,0.74,Pending,None,2026-08-18 13:09:18
+HR-961,EMP-536,Operations,Leadership can improve employee support,Management,SRC-7939,0.81,Pending,None,2026-09-08 08:26:18
+HR-962,EMP-382,Operations,We need better workload distribution,Workload,SRC-8904,0.67,Pending,None,2026-09-05 22:46:18
+HR-963,EMP-668,Sales,Leadership can improve employee support,Management,SRC-6641,0.89,Pending,None,2026-08-29 14:57:18
+HR-964,EMP-853,IT,More training opportunities are needed,Career Growth,SRC-4764,0.77,Pending,None,2026-08-18 20:49:18
+HR-965,EMP-202,IT,Pay should be reviewed regularly,Compensation,SRC-1852,0.66,Pending,None,2026-09-09 10:38:18
+HR-966,EMP-105,Customer Support,Maybe some changes are needed,Unclear,SRC-8727,0.52,Pending,None,2026-08-31 07:38:18
+HR-967,EMP-190,HR,Managers should give more feedback,Management,SRC-1618,0.88,Pending,None,2026-08-29 17:42:18
+HR-968,EMP-728,Operations,More professional development would help,Career Growth,SRC-1941,0.96,Pending,None,2026-08-19 11:32:18
+HR-969,EMP-755,Sales,Some employees have too much work,Workload,SRC-5685,0.67,Pending,None,2026-09-07 18:55:18
+HR-970,EMP-622,Marketing,Good work should receive more recognition,Recognition,SRC-1590,0.74,Pending,None,2026-09-10 07:33:18
+HR-971,EMP-100,IT,Could improve,Unclear,SRC-7544,0.32,Pending,None,2026-08-29 11:42:18
+HR-972,EMP-515,Marketing,Need better internal communication,Communication,SRC-2477,0.81,Pending,None,2026-09-05 22:48:18
+HR-973,EMP-696,Finance,Pay should be reviewed regularly,Compensation,SRC-4707,0.83,Pending,None,2026-08-20 08:34:18
+HR-974,EMP-565,Sales,Management should listen to employees,Management,SRC-7670,0.79,Pending,None,2026-09-05 22:16:18
+HR-975,EMP-174,Marketing,We need regular team updates,Communication,SRC-5222,0.93,Pending,None,2026-09-06 16:02:18
+HR-976,EMP-356,Operations,The work environment needs improvement,Work Environment,SRC-8923,0.89,Pending,None,2026-08-26 23:06:18
+HR-977,EMP-894,Sales,Employees should be appreciated more,Recognition,SRC-8896,0.64,Pending,None,2026-08-14 13:53:18
+HR-978,EMP-491,Operations,Too many tasks are assigned at once,Workload,SRC-6172,0.76,Pending,None,2026-08-27 13:46:18
+HR-979,EMP-628,Marketing,Could improve,Unclear,SRC-5067,0.3,Pending,None,2026-08-29 15:50:18
+HR-980,EMP-789,Operations,We need regular team updates,Communication,SRC-3924,0.78,Pending,None,2026-08-27 14:15:18
+HR-981,EMP-323,Marketing,Employees need better career growth opportunities,Career Growth,SRC-9175,0.88,Pending,None,2026-08-22 04:37:18
+HR-982,EMP-853,IT,Too many tasks are assigned at once,Workload,SRC-4322,0.92,Pending,None,2026-09-08 15:46:18
+HR-983,EMP-464,IT,Need better internal communication,Communication,SRC-9071,0.83,Pending,None,2026-09-05 03:32:18
+HR-984,EMP-143,Customer Support,We need better employee appreciation,Recognition,SRC-9066,0.94,Pending,None,2026-09-06 15:37:18
+HR-985,EMP-989,Finance,Benefits could be improved,Compensation,SRC-5591,0.75,Pending,None,2026-09-06 17:58:18
+HR-986,EMP-231,HR,The workplace facilities are good,Work Environment,SRC-9859,0.61,Pending,None,2026-08-27 07:25:18
+HR-987,EMP-503,Customer Support,We need better workload distribution,Workload,SRC-2972,0.87,Pending,None,2026-09-01 10:37:18
+HR-988,EMP-423,Operations,It is okay,Unclear,SRC-7216,0.4,Pending,None,2026-08-26 07:33:18
+HR-989,EMP-470,Marketing,Some employees have too much work,Workload,SRC-5306,0.69,Pending,None,2026-09-01 22:56:18
+HR-990,EMP-727,Finance,The workplace facilities are good,Work Environment,SRC-4449,0.76,Pending,None,2026-08-28 10:45:18
+HR-991,EMP-473,Customer Support,The office environment could be improved,Work Environment,SRC-3148,0.97,Pending,None,2026-08-21 21:45:18
+HR-992,EMP-933,HR,Employees need better compensation,Compensation,SRC-8081,0.93,Pending,None,2026-08-20 10:15:18
+HR-993,EMP-249,Customer Support,We need better workload distribution,Workload,SRC-1159,0.67,Pending,None,2026-09-03 05:47:18
+HR-994,EMP-237,Customer Support,We need better employee appreciation,Recognition,SRC-8972,0.71,Pending,None,2026-09-06 02:06:18
+HR-995,EMP-979,Marketing,Not sure about this,Unclear,SRC-3676,0.22,Pending,None,2026-08-23 01:51:18
+HR-996,EMP-587,Customer Support,We need a better working environment,Work Environment,SRC-5256,0.74,Pending,None,2026-09-06 00:09:18
+HR-997,EMP-670,Customer Support,There should be better communication between departments,Communication,SRC-2986,0.73,Pending,None,2026-09-08 01:33:18
+HR-998,EMP-303,Marketing,More professional development would help,Career Growth,SRC-3859,0.97,Pending,None,2026-08-24 10:58:18
+HR-999,EMP-463,Finance,The workplace facilities are good,Work Environment,SRC-2284,0.74,Pending,None,2026-08-24 13:03:18
+HR-1000,EMP-574,Operations,Employees need better compensation,Compensation,SRC-6527,0.76,Pending,None,2026-09-08 08:54:18
+HR-1001,EMP-685,Sales,Need better internal communication,Communication,SRC-3654,0.73,Pending,None,2026-08-25 18:30:18
+HR-1002,EMP-424,Operations,Leadership can improve employee support,Management,SRC-7479,0.7,Pending,None,2026-08-31 18:02:18
+HR-1003,EMP-899,Customer Support,More professional development would help,Career Growth,SRC-9535,0.97,Pending,None,2026-08-30 08:17:18
+HR-1004,EMP-271,IT,Too many tasks are assigned at once,Workload,SRC-5122,0.96,Pending,None,2026-08-15 03:33:18
+HR-1005,EMP-315,IT,Need better internal communication,Communication,SRC-8752,0.81,Pending,None,2026-08-12 16:53:18
+HR-1006,EMP-889,Sales,Need better internal communication,Communication,SRC-5300,0.83,Pending,None,2026-08-15 08:11:18
+HR-1007,EMP-770,Sales,Work pressure is increasing,Workload,SRC-8260,0.84,Pending,None,2026-08-17 11:29:18
+HR-1008,EMP-639,Customer Support,Teams should communicate more clearly,Communication,SRC-6328,0.93,Pending,None,2026-09-01 18:23:18
+HR-1009,EMP-991,Marketing,Hard work should be recognized,Recognition,SRC-3213,0.97,Pending,None,2026-09-05 01:08:18
+HR-1010,EMP-281,Marketing,More professional development would help,Career Growth,SRC-8126,0.8,Pending,None,2026-09-09 14:38:18
+HR-1011,EMP-646,Finance,The work environment needs improvement,Work Environment,SRC-4721,0.91,Pending,None,2026-08-31 14:43:18
+HR-1012,EMP-415,Finance,Work pressure is increasing,Workload,SRC-1172,0.6,Pending,None,2026-08-17 16:58:18
+HR-1013,EMP-452,Finance,There should be better communication between departments,Communication,SRC-8816,0.71,Pending,None,2026-08-31 02:15:18
+HR-1014,EMP-917,Finance,Salary structure could be improved,Compensation,SRC-9981,0.74,Pending,None,2026-08-30 05:49:18
+HR-1015,EMP-674,Sales,We need better workload distribution,Workload,SRC-7199,0.68,Pending,None,2026-08-15 02:37:18
+HR-1016,EMP-532,Operations,Benefits could be improved,Compensation,SRC-5454,0.71,Pending,None,2026-09-04 17:07:18
+HR-1017,EMP-928,Finance,Salary structure could be improved,Compensation,SRC-3988,0.65,Pending,None,2026-08-16 12:38:18
+HR-1018,EMP-752,Sales,Leadership can improve employee support,Management,SRC-9060,0.67,Pending,None,2026-08-12 09:17:18
+HR-1019,EMP-255,HR,Important information is not shared on time,Communication,SRC-2675,0.71,Pending,None,2026-08-17 04:40:18
+HR-1020,EMP-832,Sales,The workload is too high,Workload,SRC-3468,0.61,Pending,None,2026-08-21 09:19:18
+HR-1021,EMP-450,Sales,Compensation should reflect responsibilities,Compensation,SRC-7084,0.78,Pending,None,2026-08-12 22:45:18
+HR-1022,EMP-438,HR,The workload is too high,Workload,SRC-5366,0.89,Pending,None,2026-08-14 18:04:18
+HR-1023,EMP-656,Sales,Pay should be reviewed regularly,Compensation,SRC-7251,0.91,Pending,None,2026-08-17 01:18:18
+HR-1024,EMP-886,Operations,Compensation should reflect responsibilities,Compensation,SRC-5049,0.88,Pending,None,2026-08-13 00:42:18
+HR-1025,EMP-303,Sales,We need regular team updates,Communication,SRC-4415,0.78,Pending,None,2026-08-25 17:00:18
+HR-1026,EMP-430,IT,We need regular team updates,Communication,SRC-9534,0.65,Pending,None,2026-09-02 09:43:18
+HR-1027,EMP-753,Finance,Important information is not shared on time,Communication,SRC-2850,0.69,Pending,None,2026-08-31 06:19:18
+HR-1028,EMP-432,HR,Leadership can improve employee support,Management,SRC-2960,0.75,Pending,None,2026-08-22 13:37:18
+HR-1029,EMP-109,HR,There should be clearer promotion opportunities,Career Growth,SRC-3539,0.74,Pending,None,2026-08-15 13:50:18
+HR-1030,EMP-354,IT,More professional development would help,Career Growth,SRC-6544,0.95,Pending,None,2026-09-08 22:54:18
+HR-1031,EMP-161,HR,Some employees have too much work,Workload,SRC-2759,0.65,Pending,None,2026-08-22 02:14:18
+HR-1032,EMP-424,Marketing,Pay should be reviewed regularly,Compensation,SRC-8187,0.88,Pending,None,2026-08-12 11:25:18
+HR-1033,EMP-805,Sales,Work pressure is increasing,Workload,SRC-1646,0.78,Pending,None,2026-08-31 09:58:18
+HR-1034,EMP-672,Finance,The office environment could be improved,Work Environment,SRC-4057,0.81,Pending,None,2026-08-26 05:38:18
+HR-1035,EMP-849,Sales,Benefits could be improved,Compensation,SRC-3627,0.63,Pending,None,2026-08-18 13:25:18
+HR-1036,EMP-560,Finance,We need better employee appreciation,Recognition,SRC-8439,0.6,Pending,None,2026-09-09 12:59:18
+HR-1037,EMP-618,Sales,We need regular team updates,Communication,SRC-6965,0.89,Pending,None,2026-08-22 08:55:18
+HR-1038,EMP-428,Operations,Nothing specific,Unclear,SRC-7348,0.27,Pending,None,2026-09-03 03:33:18
+HR-1039,EMP-884,Marketing,We need better support from managers,Management,SRC-7714,0.84,Pending,None,2026-08-16 12:45:18
+HR-1040,EMP-198,Marketing,Important information is not shared on time,Communication,SRC-3926,0.93,Pending,None,2026-08-20 16:49:18
+HR-1041,EMP-209,Sales,We need regular team updates,Communication,SRC-7366,0.85,Pending,None,2026-09-04 10:26:18
+HR-1042,EMP-738,Operations,Teams should communicate more clearly,Communication,SRC-4616,0.83,Pending,None,2026-08-14 17:30:18
+HR-1043,EMP-113,IT,Salary structure could be improved,Compensation,SRC-8668,0.9,Pending,None,2026-08-14 06:24:18
+HR-1044,EMP-469,Marketing,We need a better working environment,Work Environment,SRC-1955,0.91,Pending,None,2026-08-23 14:26:18
+HR-1045,EMP-641,HR,Pay should be reviewed regularly,Compensation,SRC-2276,0.96,Pending,None,2026-09-04 03:30:18
+HR-1046,EMP-199,HR,Hard work should be recognized,Recognition,SRC-4104,0.67,Pending,None,2026-09-10 09:35:18
+HR-1047,EMP-354,Marketing,Some employees have too much work,Workload,SRC-7802,0.88,Pending,None,2026-09-09 13:38:18
+HR-1048,EMP-690,Finance,There should be clearer promotion opportunities,Career Growth,SRC-2705,0.66,Pending,None,2026-08-19 17:08:18
+HR-1049,EMP-663,Sales,Employees need better career growth opportunities,Career Growth,SRC-9747,0.98,Pending,None,2026-08-31 15:59:18
+HR-1050,EMP-460,Finance,We need better support from managers,Management,SRC-7755,0.89,Pending,None,2026-08-31 02:25:18
+HR-1051,EMP-945,Operations,Some employees have too much work,Workload,SRC-9939,0.68,Pending,None,2026-09-05 13:06:18
+HR-1052,EMP-862,Finance,The workplace facilities are good,Work Environment,SRC-7505,0.6,Pending,None,2026-08-13 01:57:18
+HR-1053,EMP-391,Marketing,Maybe some changes are needed,Unclear,SRC-5945,0.2,Pending,None,2026-08-21 14:27:18
+HR-1054,EMP-319,Customer Support,Pay should be reviewed regularly,Compensation,SRC-9376,0.81,Pending,None,2026-09-06 12:27:18
+HR-1055,EMP-258,HR,I don't know,Unclear,SRC-3557,0.25,Pending,None,2026-08-28 05:03:18
+HR-1056,EMP-696,IT,Pay should be reviewed regularly,Compensation,SRC-2505,0.82,Pending,None,2026-09-06 09:40:18
+HR-1057,EMP-322,Operations,I don't know,Unclear,SRC-8905,0.26,Pending,None,2026-09-06 17:29:18
+HR-1058,EMP-939,HR,Managers should give more feedback,Management,SRC-7251,0.63,Pending,None,2026-08-14 01:10:18
+HR-1059,EMP-889,Finance,Compensation should reflect responsibilities,Compensation,SRC-7824,0.95,Pending,None,2026-08-16 23:45:18
+HR-1060,EMP-990,Customer Support,More professional development would help,Career Growth,SRC-1187,0.84,Pending,None,2026-09-09 06:37:18
+HR-1061,EMP-491,HR,Teams should communicate more clearly,Communication,SRC-9846,0.81,Pending,None,2026-08-26 09:05:18
+HR-1062,EMP-614,Operations,There should be better communication between departments,Communication,SRC-8300,0.89,Pending,None,2026-09-06 16:25:18
+HR-1063,EMP-616,HR,Managers should communicate expectations clearly,Management,SRC-3425,0.65,Pending,None,2026-08-15 06:15:18
+HR-1064,EMP-587,Marketing,Hard work should be recognized,Recognition,SRC-5301,0.63,Pending,None,2026-09-03 08:13:18
+HR-1065,EMP-544,Customer Support,Employees need better compensation,Compensation,SRC-8879,0.81,Pending,None,2026-09-02 16:58:18
+HR-1066,EMP-504,Operations,Employees deserve more recognition,Recognition,SRC-9589,0.69,Pending,None,2026-08-14 18:21:18
+HR-1067,EMP-372,Customer Support,More professional development would help,Career Growth,SRC-2467,0.64,Pending,None,2026-08-30 07:50:18
+HR-1068,EMP-533,Finance,We need better support from managers,Management,SRC-1396,0.89,Pending,None,2026-08-19 04:58:18
+HR-1069,EMP-458,Marketing,Compensation should reflect responsibilities,Compensation,SRC-3389,0.77,Pending,None,2026-08-22 03:07:18
+HR-1070,EMP-304,Operations,Salary structure could be improved,Compensation,SRC-2841,0.88,Pending,None,2026-08-22 13:34:18
+HR-1071,EMP-735,IT,Pay should be reviewed regularly,Compensation,SRC-1225,0.73,Pending,None,2026-08-16 13:38:18
+HR-1072,EMP-412,Sales,Management should listen to employees,Management,SRC-9814,0.68,Pending,None,2026-09-05 08:56:18
+HR-1073,EMP-635,Customer Support,The work environment needs improvement,Work Environment,SRC-3315,0.86,Pending,None,2026-08-12 08:11:18
+HR-1074,EMP-485,Marketing,Employees should be appreciated more,Recognition,SRC-5185,0.66,Pending,None,2026-08-24 10:19:18
+HR-1075,EMP-305,Customer Support,Managers should give more feedback,Management,SRC-8617,0.85,Pending,None,2026-08-11 21:12:18
+HR-1076,EMP-168,Sales,We need more learning programs,Career Growth,SRC-2767,0.61,Pending,None,2026-09-10 01:25:18
+HR-1077,EMP-495,IT,Employees should be appreciated more,Recognition,SRC-6168,0.78,Pending,None,2026-09-07 16:17:18
+HR-1078,EMP-644,HR,Hard work should be recognized,Recognition,SRC-1352,0.62,Pending,None,2026-09-04 14:21:18
+HR-1079,EMP-412,Finance,Employees need better career growth opportunities,Career Growth,SRC-1301,0.73,Pending,None,2026-08-27 12:28:18
+HR-1080,EMP-463,Operations,We need better employee appreciation,Recognition,SRC-2015,0.84,Pending,None,2026-08-29 02:59:18
+HR-1081,EMP-934,HR,Management should listen to employees,Management,SRC-3485,0.73,Pending,None,2026-08-29 09:11:18
+HR-1082,EMP-772,IT,No clear opinion,Unclear,SRC-9531,0.54,Pending,None,2026-09-08 09:03:18
+HR-1083,EMP-993,Operations,The office environment could be improved,Work Environment,SRC-3502,0.76,Pending,None,2026-08-25 17:18:18
+HR-1084,EMP-719,Finance,Too many tasks are assigned at once,Workload,SRC-3270,0.82,Pending,None,2026-08-20 17:04:18
+HR-1085,EMP-983,IT,More professional development would help,Career Growth,SRC-3215,0.76,Pending,None,2026-08-18 02:38:18
+HR-1086,EMP-771,Marketing,Managers should give more feedback,Management,SRC-9732,0.96,Pending,None,2026-08-16 21:24:18
+HR-1087,EMP-288,Finance,The workload is too high,Workload,SRC-6221,0.93,Pending,None,2026-08-30 08:20:18
+HR-1088,EMP-521,Finance,Pay should be reviewed regularly,Compensation,SRC-3489,0.9,Pending,None,2026-08-16 08:43:18
+HR-1089,EMP-234,IT,Could improve,Unclear,SRC-4783,0.41,Pending,None,2026-08-22 00:19:18
+HR-1090,EMP-803,HR,There should be clearer promotion opportunities,Career Growth,SRC-3196,0.79,Pending,None,2026-09-08 00:36:18
+HR-1091,EMP-580,Operations,We need better workload distribution,Workload,SRC-9051,0.78,Pending,None,2026-08-18 22:59:18
+HR-1092,EMP-297,IT,Things could be better,Unclear,SRC-5421,0.53,Pending,None,2026-08-21 15:11:18
+HR-1093,EMP-860,Operations,Employees need better compensation,Compensation,SRC-2083,0.67,Pending,None,2026-08-31 11:54:18
+HR-1094,EMP-987,Marketing,Managers should communicate expectations clearly,Management,SRC-5043,0.76,Pending,None,2026-08-13 09:47:18
+HR-1095,EMP-722,Operations,We need more learning programs,Career Growth,SRC-7457,0.83,Pending,None,2026-09-06 12:48:18
+HR-1096,EMP-708,Marketing,More training opportunities are needed,Career Growth,SRC-9530,0.64,Pending,None,2026-09-01 07:09:18
+HR-1097,EMP-946,HR,Some employees have too much work,Workload,SRC-9812,0.75,Pending,None,2026-08-13 06:58:18
+HR-1098,EMP-671,Sales,More training opportunities are needed,Career Growth,SRC-4110,0.71,Pending,None,2026-08-29 14:51:18
+HR-1099,EMP-411,Customer Support,The office environment could be improved,Work Environment,SRC-7921,0.71,Pending,None,2026-08-13 23:40:18
+HR-1100,EMP-806,Marketing,The workplace facilities are good,Work Environment,SRC-2481,0.87,Pending,None,2026-08-16 15:42:18
+HR-1101,EMP-284,Customer Support,More professional development would help,Career Growth,SRC-3216,0.75,Pending,None,2026-08-26 05:24:18
+HR-1102,EMP-561,HR,Good work should receive more recognition,Recognition,SRC-8449,0.63,Pending,None,2026-08-26 06:04:18
+HR-1103,EMP-808,Operations,Employees need better compensation,Compensation,SRC-3024,0.63,Pending,None,2026-08-31 22:57:18
+HR-1104,EMP-749,Finance,No clear opinion,Unclear,SRC-9383,0.41,Pending,None,2026-08-18 18:45:18
+HR-1105,EMP-487,Marketing,Employees need better compensation,Compensation,SRC-6491,0.81,Pending,None,2026-08-18 08:02:18
+HR-1106,EMP-266,Customer Support,Not good,Unclear,SRC-1840,0.35,Pending,None,2026-08-25 14:10:18
+HR-1107,EMP-847,Customer Support,Management should listen to employees,Management,SRC-2926,0.94,Pending,None,2026-08-20 17:40:18
+HR-1108,EMP-103,Marketing,There should be better communication between departments,Communication,SRC-9153,0.93,Pending,None,2026-09-05 05:44:18
+HR-1109,EMP-926,HR,The office environment could be improved,Work Environment,SRC-4553,0.82,Pending,None,2026-09-02 03:42:18
+HR-1110,EMP-564,Sales,Employees deserve more recognition,Recognition,SRC-1107,0.69,Pending,None,2026-09-05 09:56:18
+HR-1111,EMP-384,Marketing,Employees need better compensation,Compensation,SRC-1801,0.67,Pending,None,2026-08-14 00:14:18
+HR-1112,EMP-768,Finance,Things could be better,Unclear,SRC-5889,0.32,Pending,None,2026-08-15 11:53:18
+HR-1113,EMP-150,HR,Too many tasks are assigned at once,Workload,SRC-5659,0.83,Pending,None,2026-09-07 13:57:18
+HR-1114,EMP-686,Customer Support,The work environment needs improvement,Work Environment,SRC-6901,0.95,Pending,None,2026-08-15 17:49:18
+HR-1115,EMP-886,Finance,The workplace environment is comfortable,Work Environment,SRC-8001,0.92,Pending,None,2026-08-14 11:00:18
+HR-1116,EMP-399,Sales,Better,Unclear,SRC-5496,0.32,Pending,None,2026-08-30 08:02:18
+HR-1117,EMP-637,IT,Employees should be appreciated more,Recognition,SRC-2790,0.82,Pending,None,2026-09-09 03:06:18
+HR-1118,EMP-641,HR,More professional development would help,Career Growth,SRC-5705,0.76,Pending,None,2026-08-25 21:47:18
+HR-1119,EMP-365,Marketing,We need better employee appreciation,Recognition,SRC-3125,0.83,Pending,None,2026-09-03 02:17:18
+HR-1120,EMP-632,Operations,The office environment could be improved,Work Environment,SRC-4812,0.87,Pending,None,2026-08-20 07:30:18
+HR-1121,EMP-101,HR,Not sure about this,Unclear,SRC-4396,0.48,Pending,None,2026-08-30 08:59:18
+HR-1122,EMP-523,HR,Good work should receive more recognition,Recognition,SRC-1185,0.84,Pending,None,2026-08-24 07:42:18
+HR-1123,EMP-360,Customer Support,Could improve,Unclear,SRC-9301,0.39,Pending,None,2026-08-11 18:47:18
+HR-1124,EMP-216,Operations,The work environment needs improvement,Work Environment,SRC-1477,0.92,Pending,None,2026-08-20 08:01:18
+HR-1125,EMP-438,Customer Support,There should be clearer promotion opportunities,Career Growth,SRC-8774,0.9,Pending,None,2026-09-09 21:19:18
+HR-1126,EMP-239,Sales,The work environment needs improvement,Work Environment,SRC-6490,0.78,Pending,None,2026-08-30 08:14:18
+HR-1127,EMP-860,HR,Leadership can improve employee support,Management,SRC-6169,0.81,Pending,None,2026-08-12 08:32:18
+HR-1128,EMP-313,Marketing,Pay should be reviewed regularly,Compensation,SRC-2084,0.97,Pending,None,2026-08-24 06:26:18
+HR-1129,EMP-960,HR,The work environment needs improvement,Work Environment,SRC-3719,0.82,Pending,None,2026-08-29 05:36:18
+HR-1130,EMP-291,Marketing,Not good,Unclear,SRC-6050,0.45,Pending,None,2026-08-25 19:37:18
+HR-1131,EMP-826,HR,There should be better communication between departments,Communication,SRC-4893,0.74,Pending,None,2026-08-25 06:39:18
+HR-1132,EMP-321,Marketing,Teams should communicate more clearly,Communication,SRC-1612,0.9,Pending,None,2026-08-15 17:14:18
+HR-1133,EMP-554,Marketing,There are some issues,Unclear,SRC-9192,0.25,Pending,None,2026-08-26 23:35:18
+HR-1134,EMP-595,Operations,We need better support from managers,Management,SRC-3347,0.89,Pending,None,2026-08-15 23:25:18
+HR-1135,EMP-941,Marketing,Too many tasks are assigned at once,Workload,SRC-1598,0.77,Pending,None,2026-09-04 06:38:18
+HR-1136,EMP-218,HR,We need regular team updates,Communication,SRC-2426,0.73,Pending,None,2026-08-13 14:29:18
+HR-1137,EMP-205,Marketing,We need more learning programs,Career Growth,SRC-1368,0.82,Pending,None,2026-08-25 17:02:18
+HR-1138,EMP-754,IT,Work pressure is increasing,Workload,SRC-5532,0.8,Pending,None,2026-08-31 13:54:18
+HR-1139,EMP-787,HR,Work pressure is increasing,Workload,SRC-2875,0.61,Pending,None,2026-09-08 20:31:18
+HR-1140,EMP-673,Marketing,Manager,Unclear,SRC-6739,0.39,Pending,None,2026-08-23 20:09:18
+HR-1141,EMP-244,Operations,Good work should receive more recognition,Recognition,SRC-3806,0.63,Pending,None,2026-09-08 09:56:18
+HR-1142,EMP-446,Marketing,The workload is too high,Workload,SRC-8712,0.94,Pending,None,2026-08-13 19:12:18
+HR-1143,EMP-208,Sales,No clear opinion,Unclear,SRC-7421,0.26,Pending,None,2026-09-07 15:13:18
+HR-1144,EMP-706,Operations,There should be clearer promotion opportunities,Career Growth,SRC-6826,0.72,Pending,None,2026-08-20 12:31:18
+HR-1145,EMP-830,Customer Support,Employees should be appreciated more,Recognition,SRC-8629,0.82,Pending,None,2026-08-15 17:35:18
+HR-1146,EMP-932,Customer Support,The workplace environment is comfortable,Work Environment,SRC-8464,0.72,Pending,None,2026-09-09 19:58:18
+HR-1147,EMP-827,Customer Support,Too many tasks are assigned at once,Workload,SRC-3354,0.93,Pending,None,2026-09-08 13:57:18
+HR-1148,EMP-364,Finance,We need more learning programs,Career Growth,SRC-6320,0.77,Pending,None,2026-08-12 21:09:18
+HR-1149,EMP-166,Sales,Workload,Unclear,SRC-8556,0.5,Pending,None,2026-08-24 08:24:18
+HR-1150,EMP-886,Finance,Some employees have too much work,Workload,SRC-2686,0.75,Pending,None,2026-08-16 08:57:18
+HR-1151,EMP-433,Marketing,Pay should be reviewed regularly,Compensation,SRC-9728,0.78,Pending,None,2026-09-07 09:07:18
+HR-1152,EMP-523,IT,Good work should receive more recognition,Recognition,SRC-8903,0.75,Pending,None,2026-08-27 00:15:18
+HR-1153,EMP-313,Customer Support,The workplace facilities are good,Work Environment,SRC-6606,0.81,Pending,None,2026-08-22 06:02:18
+HR-1154,EMP-277,Operations,More professional development would help,Career Growth,SRC-8972,0.64,Pending,None,2026-09-07 15:10:18
+HR-1155,EMP-574,Finance,Compensation should reflect responsibilities,Compensation,SRC-3886,0.72,Pending,None,2026-08-29 23:20:18
+HR-1156,EMP-171,Marketing,Not good,Unclear,SRC-7208,0.31,Pending,None,2026-09-09 20:36:18
+HR-1157,EMP-776,HR,Maybe some changes are needed,Unclear,SRC-1003,0.46,Pending,None,2026-08-18 07:05:18
+HR-1158,EMP-563,Marketing,Employees deserve more recognition,Recognition,SRC-8326,0.67,Pending,None,2026-08-25 21:54:18
+HR-1159,EMP-406,Marketing,We need more learning programs,Career Growth,SRC-8122,0.87,Pending,None,2026-08-27 04:07:18
+HR-1160,EMP-191,Marketing,Nothing specific,Unclear,SRC-7622,0.5,Pending,None,2026-08-24 21:25:18
+HR-1161,EMP-163,Finance,Need better internal communication,Communication,SRC-6885,0.64,Pending,None,2026-08-24 08:20:18
+HR-1162,EMP-986,HR,More professional development would help,Career Growth,SRC-7459,0.84,Pending,None,2026-08-28 22:12:18
+HR-1163,EMP-515,Sales,Too many tasks are assigned at once,Workload,SRC-8780,0.65,Pending,None,2026-09-05 18:46:18
+HR-1164,EMP-493,Customer Support,Compensation should reflect responsibilities,Compensation,SRC-3527,0.71,Pending,None,2026-08-17 05:13:18
+HR-1165,EMP-237,HR,Things could be better,Unclear,SRC-3359,0.45,Pending,None,2026-09-02 15:42:18
+HR-1166,EMP-773,Sales,The workload is too high,Workload,SRC-3248,0.84,Pending,None,2026-08-30 10:19:18
+HR-1167,EMP-980,Sales,More professional development would help,Career Growth,SRC-7974,0.84,Pending,None,2026-09-01 04:25:18
+HR-1168,EMP-621,Sales,The workplace facilities are good,Work Environment,SRC-6821,0.69,Pending,None,2026-08-30 20:03:18
+HR-1169,EMP-719,HR,Employees need better compensation,Compensation,SRC-9220,0.7,Pending,None,2026-09-05 08:39:18
+HR-1170,EMP-690,Finance,Things could be better,Unclear,SRC-8917,0.45,Pending,None,2026-08-16 15:42:18
+HR-1171,EMP-694,Sales,Important information is not shared on time,Communication,SRC-9624,0.97,Pending,None,2026-08-24 05:18:18
+HR-1172,EMP-576,Marketing,Not sure about this,Unclear,SRC-5017,0.37,Pending,None,2026-08-15 01:23:18
+HR-1173,EMP-800,Operations,We need better employee appreciation,Recognition,SRC-1864,0.94,Pending,None,2026-09-04 20:29:18
+HR-1174,EMP-897,HR,Hard work should be recognized,Recognition,SRC-6431,0.76,Pending,None,2026-08-24 21:54:18
+HR-1175,EMP-396,IT,Could improve,Unclear,SRC-5267,0.22,Pending,None,2026-09-02 00:55:18
+HR-1176,EMP-692,IT,We need more learning programs,Career Growth,SRC-1447,0.71,Pending,None,2026-08-15 06:13:18
+HR-1177,EMP-229,Marketing,Could improve,Unclear,SRC-5129,0.25,Pending,None,2026-08-24 06:59:18
+HR-1178,EMP-381,Customer Support,More training opportunities are needed,Career Growth,SRC-3860,0.95,Pending,None,2026-08-18 09:10:18
+HR-1179,EMP-774,Sales,Work pressure is increasing,Workload,SRC-4869,0.78,Pending,None,2026-09-04 12:08:18
+HR-1180,EMP-982,HR,Important information is not shared on time,Communication,SRC-3525,0.92,Pending,None,2026-08-30 07:08:18
+HR-1181,EMP-888,Sales,The office environment could be improved,Work Environment,SRC-4454,0.82,Pending,None,2026-08-27 05:00:18
+HR-1182,EMP-155,Operations,Salary structure could be improved,Compensation,SRC-1860,0.66,Pending,None,2026-08-29 15:38:18
+HR-1183,EMP-587,Finance,Benefits could be improved,Compensation,SRC-4828,0.74,Pending,None,2026-08-29 06:09:18
+HR-1184,EMP-585,Finance,Not good,Unclear,SRC-8122,0.2,Pending,None,2026-08-31 22:19:18
+HR-1185,EMP-491,Operations,Employees should be appreciated more,Recognition,SRC-2595,0.95,Pending,None,2026-09-09 12:20:18
+HR-1186,EMP-462,Customer Support,We need more learning programs,Career Growth,SRC-6488,0.7,Pending,None,2026-08-15 23:26:18
+HR-1187,EMP-361,Operations,The office environment could be improved,Work Environment,SRC-4193,0.8,Pending,None,2026-08-19 16:37:18
+HR-1188,EMP-420,Marketing,Things could be better,Unclear,SRC-2113,0.2,Pending,None,2026-08-15 22:48:18
+HR-1189,EMP-637,HR,Management should listen to employees,Management,SRC-5641,0.7,Pending,None,2026-08-13 01:16:18
+HR-1190,EMP-124,Marketing,It is okay,Unclear,SRC-2995,0.45,Pending,None,2026-08-16 23:08:18
+HR-1191,EMP-188,Customer Support,The work environment needs improvement,Work Environment,SRC-4027,0.94,Pending,None,2026-08-19 21:21:18
+HR-1192,EMP-359,Finance,There should be better communication between departments,Communication,SRC-5528,0.89,Pending,None,2026-08-26 05:20:18
+HR-1193,EMP-363,IT,Managers should give more feedback,Management,SRC-7271,0.75,Pending,None,2026-08-14 05:42:18
+HR-1194,EMP-364,Customer Support,The workplace environment is comfortable,Work Environment,SRC-9056,0.97,Pending,None,2026-08-20 15:17:18
+HR-1195,EMP-724,Sales,The workplace environment is comfortable,Work Environment,SRC-3357,0.81,Pending,None,2026-08-31 03:08:18
+HR-1196,EMP-323,Marketing,We need a better working environment,Work Environment,SRC-2692,0.61,Pending,None,2026-08-14 17:00:18
+HR-1197,EMP-685,Operations,The workplace environment is comfortable,Work Environment,SRC-9154,0.66,Pending,None,2026-09-09 15:31:18
+HR-1198,EMP-100,HR,Management should listen to employees,Management,SRC-6403,0.94,Pending,None,2026-09-06 15:45:18
+HR-1199,EMP-103,Marketing,Compensation should reflect responsibilities,Compensation,SRC-8833,0.77,Pending,None,2026-08-14 16:40:18
+HR-1200,EMP-653,IT,There are some issues,Unclear,SRC-2985,0.4,Pending,None,2026-08-27 20:08:18
+HR-1201,EMP-441,Operations,Need better internal communication,Communication,SRC-6985,0.8,Pending,None,2026-08-26 23:32:18
+HR-1202,EMP-182,Customer Support,Pay should be reviewed regularly,Compensation,SRC-4327,0.67,Pending,None,2026-08-13 07:03:18
+HR-1203,EMP-493,Operations,There should be clearer promotion opportunities,Career Growth,SRC-2749,0.84,Pending,None,2026-08-27 20:30:18
+HR-1204,EMP-598,HR,The office environment could be improved,Work Environment,SRC-3292,0.61,Pending,None,2026-08-12 15:48:18
+HR-1205,EMP-837,Marketing,The workplace environment is comfortable,Work Environment,SRC-9856,0.84,Pending,None,2026-09-03 05:53:18
+HR-1206,EMP-646,Customer Support,Need better internal communication,Communication,SRC-6558,0.62,Pending,None,2026-08-13 10:51:18
+HR-1207,EMP-515,HR,More professional development would help,Career Growth,SRC-8509,0.96,Pending,None,2026-09-04 22:10:18
+HR-1208,EMP-252,Operations,Need better internal communication,Communication,SRC-3319,0.79,Pending,None,2026-08-12 08:55:18
+HR-1209,EMP-582,Marketing,Maybe some changes are needed,Unclear,SRC-1235,0.26,Pending,None,2026-08-13 18:40:18
+HR-1210,EMP-414,Customer Support,The work environment needs improvement,Work Environment,SRC-3796,0.92,Pending,None,2026-08-14 09:57:18
+HR-1211,EMP-937,Customer Support,Workload,Unclear,SRC-4613,0.22,Pending,None,2026-08-20 17:26:18
+HR-1212,EMP-536,Finance,There should be clearer promotion opportunities,Career Growth,SRC-6312,0.65,Pending,None,2026-09-06 17:12:18
+HR-1213,EMP-658,IT,Employees need better compensation,Compensation,SRC-1746,0.83,Pending,None,2026-08-26 18:33:18
+HR-1214,EMP-164,HR,Compensation should reflect responsibilities,Compensation,SRC-3753,0.86,Pending,None,2026-09-05 16:34:18
+HR-1215,EMP-268,Sales,Employees should be appreciated more,Recognition,SRC-3185,0.64,Pending,None,2026-09-09 06:37:18
+HR-1216,EMP-727,Sales,There should be better communication between departments,Communication,SRC-2322,0.6,Pending,None,2026-08-19 16:04:18
+HR-1217,EMP-191,Operations,Managers should communicate expectations clearly,Management,SRC-8798,0.86,Pending,None,2026-08-20 21:16:18
+HR-1218,EMP-246,Operations,The workplace facilities are good,Work Environment,SRC-4919,0.96,Pending,None,2026-09-08 06:58:18
+HR-1219,EMP-808,HR,There should be clearer promotion opportunities,Career Growth,SRC-2442,0.84,Pending,None,2026-08-25 05:05:18
+HR-1220,EMP-456,Sales,It is okay,Unclear,SRC-4144,0.24,Pending,None,2026-09-04 15:13:18
+HR-1221,EMP-197,Marketing,Benefits could be improved,Compensation,SRC-9315,0.68,Pending,None,2026-09-09 00:21:18
+HR-1222,EMP-775,IT,The workload is too high,Workload,SRC-3444,0.86,Pending,None,2026-09-02 02:17:18
+HR-1223,EMP-609,IT,Need better internal communication,Communication,SRC-6966,0.71,Pending,None,2026-08-31 06:52:18
+HR-1224,EMP-357,Finance,Compensation should reflect responsibilities,Compensation,SRC-1709,0.64,Pending,None,2026-08-13 21:23:18
+HR-1225,EMP-650,IT,There should be better communication between departments,Communication,SRC-9436,0.64,Pending,None,2026-08-22 05:06:18
+HR-1226,EMP-838,Sales,Managers should communicate expectations clearly,Management,SRC-4256,0.88,Pending,None,2026-08-26 07:50:18
+HR-1227,EMP-335,Customer Support,Need improvement,Unclear,SRC-2606,0.28,Pending,None,2026-08-30 06:45:18
+HR-1228,EMP-990,IT,The workload is too high,Workload,SRC-8716,0.82,Pending,None,2026-08-13 23:27:18
+HR-1229,EMP-546,IT,Hard work should be recognized,Recognition,SRC-3917,0.75,Pending,None,2026-08-17 17:05:18
+HR-1230,EMP-568,Operations,We need better support from managers,Management,SRC-4313,0.73,Pending,None,2026-08-12 23:09:18
+HR-1231,EMP-808,Marketing,Maybe some changes are needed,Unclear,SRC-2820,0.5,Pending,None,2026-09-01 08:59:18
+HR-1232,EMP-528,IT,Work pressure is increasing,Workload,SRC-3568,0.9,Pending,None,2026-09-09 12:57:18
+HR-1233,EMP-726,IT,Good work should receive more recognition,Recognition,SRC-2416,0.76,Pending,None,2026-09-04 06:00:18
+HR-1234,EMP-600,Customer Support,Hard work should be recognized,Recognition,SRC-8581,0.71,Pending,None,2026-08-30 23:42:18
+HR-1235,EMP-853,Customer Support,Managers should communicate expectations clearly,Management,SRC-4643,0.94,Pending,None,2026-09-07 10:28:18
+HR-1236,EMP-252,Marketing,The workplace environment is comfortable,Work Environment,SRC-1656,0.98,Pending,None,2026-09-03 10:50:18
+HR-1237,EMP-134,Sales,The workplace environment is comfortable,Work Environment,SRC-8412,0.79,Pending,None,2026-08-15 06:51:18
+HR-1238,EMP-671,Customer Support,No clear opinion,Unclear,SRC-4571,0.25,Pending,None,2026-08-24 23:10:18
+HR-1239,EMP-344,Operations,There should be better communication between departments,Communication,SRC-5994,0.66,Pending,None,2026-09-01 09:45:18
+HR-1240,EMP-978,Marketing,There should be better communication between departments,Communication,SRC-8598,0.89,Pending,None,2026-08-29 22:51:18
+HR-1241,EMP-289,Customer Support,There should be clearer promotion opportunities,Career Growth,SRC-1022,0.93,Pending,None,2026-08-14 17:19:18
+HR-1242,EMP-494,Operations,Teams should communicate more clearly,Communication,SRC-7977,0.89,Pending,None,2026-09-08 09:06:18
+HR-1243,EMP-655,Marketing,Salary structure could be improved,Compensation,SRC-6500,0.88,Pending,None,2026-08-13 23:58:18
+HR-1244,EMP-627,Operations,Need better internal communication,Communication,SRC-7274,0.74,Pending,None,2026-09-08 16:21:18
+HR-1245,EMP-141,Finance,More professional development would help,Career Growth,SRC-2097,0.81,Pending,None,2026-08-20 19:42:18
+HR-1246,EMP-241,Finance,There should be better communication between departments,Communication,SRC-4437,0.89,Pending,None,2026-08-21 18:20:18
+HR-1247,EMP-428,Finance,Hard work should be recognized,Recognition,SRC-5540,0.62,Pending,None,2026-08-28 11:18:18
+HR-1248,EMP-453,Sales,Employees should be appreciated more,Recognition,SRC-8703,0.87,Pending,None,2026-09-04 18:07:18
+HR-1249,EMP-399,Sales,Salary structure could be improved,Compensation,SRC-4085,0.94,Pending,None,2026-09-01 08:13:18
+HR-1250,EMP-189,HR,Work pressure is increasing,Workload,SRC-2260,0.64,Pending,None,2026-08-24 01:30:18
+HR-1251,EMP-214,Operations,Need improvement,Unclear,SRC-4346,0.38,Pending,None,2026-09-09 01:15:18
+HR-1252,EMP-123,Finance,More professional development would help,Career Growth,SRC-3163,0.78,Pending,None,2026-08-30 14:59:18
+HR-1253,EMP-554,Operations,Management should listen to employees,Management,SRC-2031,0.61,Pending,None,2026-08-22 01:51:18
+HR-1254,EMP-954,Marketing,The work environment needs improvement,Work Environment,SRC-6616,0.85,Pending,None,2026-08-26 08:30:18
+HR-1255,EMP-597,Marketing,Employees deserve more recognition,Recognition,SRC-8295,0.77,Pending,None,2026-09-06 07:41:18
+HR-1256,EMP-235,Customer Support,Pay should be reviewed regularly,Compensation,SRC-4715,0.78,Pending,None,2026-08-24 14:49:18
+HR-1257,EMP-888,Customer Support,I don't know,Unclear,SRC-5659,0.36,Pending,None,2026-08-19 01:48:18
+HR-1258,EMP-733,IT,Management should listen to employees,Management,SRC-3873,0.92,Pending,None,2026-08-18 11:44:18
+HR-1259,EMP-265,IT,Communication...,Unclear,SRC-3072,0.35,Pending,None,2026-08-28 07:52:18
+HR-1260,EMP-288,IT,Teams should communicate more clearly,Communication,SRC-6633,0.66,Pending,None,2026-08-31 21:54:18
+HR-1261,EMP-652,IT,Need better internal communication,Communication,SRC-7628,0.95,Pending,None,2026-08-18 02:53:18
+HR-1262,EMP-569,Finance,More professional development would help,Career Growth,SRC-9313,0.73,Pending,None,2026-08-24 22:55:18
+HR-1263,EMP-585,Finance,Benefits could be improved,Compensation,SRC-3409,0.9,Pending,None,2026-08-31 14:59:18
+HR-1264,EMP-446,Operations,Workload,Unclear,SRC-1656,0.25,Pending,None,2026-09-05 13:53:18
+HR-1265,EMP-219,Finance,It is okay,Unclear,SRC-8306,0.33,Pending,None,2026-08-26 08:34:18
+HR-1266,EMP-156,Marketing,Employees deserve more recognition,Recognition,SRC-4639,0.9,Pending,None,2026-08-24 03:40:18
+HR-1267,EMP-300,HR,There are some issues,Unclear,SRC-2431,0.54,Pending,None,2026-08-29 10:54:18
+HR-1268,EMP-299,Sales,Employees deserve more recognition,Recognition,SRC-1918,0.95,Pending,None,2026-08-27 22:28:18
+HR-1269,EMP-507,IT,We need a better working environment,Work Environment,SRC-7326,0.74,Pending,None,2026-08-24 11:00:18
+HR-1270,EMP-453,Finance,The work environment needs improvement,Work Environment,SRC-2435,0.68,Pending,None,2026-08-31 17:18:18
+HR-1271,EMP-859,Sales,Management should listen to employees,Management,SRC-7944,0.88,Pending,None,2026-08-30 08:30:18
+HR-1272,EMP-242,Customer Support,Important information is not shared on time,Communication,SRC-4404,0.72,Pending,None,2026-09-04 09:52:18
+HR-1273,EMP-443,HR,Hard work should be recognized,Recognition,SRC-2449,0.6,Pending,None,2026-09-09 13:50:18
+HR-1274,EMP-379,Sales,The work environment needs improvement,Work Environment,SRC-3243,0.68,Pending,None,2026-08-28 21:05:18
+HR-1275,EMP-396,Marketing,Pay should be reviewed regularly,Compensation,SRC-5979,0.79,Pending,None,2026-09-01 14:18:18
+HR-1276,EMP-329,HR,Work pressure is increasing,Workload,SRC-5917,0.96,Pending,None,2026-09-09 11:23:18
+HR-1277,EMP-583,HR,Managers should communicate expectations clearly,Management,SRC-3938,0.79,Pending,None,2026-09-09 20:22:18
+HR-1278,EMP-350,HR,Communication...,Unclear,SRC-9078,0.55,Pending,None,2026-08-14 12:58:18
+HR-1279,EMP-713,Operations,The work environment needs improvement,Work Environment,SRC-8144,0.93,Pending,None,2026-09-09 02:02:18
+HR-1280,EMP-802,Sales,Salary structure could be improved,Compensation,SRC-7114,0.79,Pending,None,2026-09-06 16:26:18
+HR-1281,EMP-117,Customer Support,Employees should be appreciated more,Recognition,SRC-3394,0.72,Pending,None,2026-08-17 16:05:18
+HR-1282,EMP-465,IT,I don't know,Unclear,SRC-7873,0.42,Pending,None,2026-08-27 16:55:18
+HR-1283,EMP-149,Finance,More training opportunities are needed,Career Growth,SRC-9419,0.67,Pending,None,2026-09-09 02:04:18
+HR-1284,EMP-287,Customer Support,Maybe some changes are needed,Unclear,SRC-9908,0.31,Pending,None,2026-08-25 21:29:18
+HR-1285,EMP-946,Customer Support,We need better support from managers,Management,SRC-6939,0.64,Pending,None,2026-09-06 21:39:18
+HR-1286,EMP-460,Customer Support,Need improvement,Unclear,SRC-9489,0.3,Pending,None,2026-09-02 13:44:18
+HR-1287,EMP-521,Finance,The workload is too high,Workload,SRC-4569,0.66,Pending,None,2026-08-21 13:36:18
+HR-1288,EMP-951,IT,Employees deserve more recognition,Recognition,SRC-9612,0.92,Pending,None,2026-09-05 14:03:18
+HR-1289,EMP-819,Customer Support,The workplace facilities are good,Work Environment,SRC-2251,0.64,Pending,None,2026-08-17 11:26:18
+HR-1290,EMP-117,Sales,We need more learning programs,Career Growth,SRC-3277,0.91,Pending,None,2026-09-07 16:53:18
+HR-1291,EMP-635,Customer Support,Work pressure is increasing,Workload,SRC-1471,0.88,Pending,None,2026-08-16 21:38:18
+HR-1292,EMP-327,IT,Too many tasks are assigned at once,Workload,SRC-6036,0.65,Pending,None,2026-08-17 10:19:18
+HR-1293,EMP-180,Sales,Salary structure could be improved,Compensation,SRC-2273,0.61,Pending,None,2026-09-02 13:02:18
+HR-1294,EMP-875,Sales,Not sure about this,Unclear,SRC-1537,0.48,Pending,None,2026-09-03 20:57:18
+HR-1295,EMP-707,HR,Managers should give more feedback,Management,SRC-2085,0.71,Pending,None,2026-08-11 23:19:18
+HR-1296,EMP-872,HR,Good work should receive more recognition,Recognition,SRC-4277,0.67,Pending,None,2026-08-27 12:04:18
+HR-1297,EMP-129,HR,Better,Unclear,SRC-5544,0.53,Pending,None,2026-08-27 08:01:18
+HR-1298,EMP-460,IT,Benefits could be improved,Compensation,SRC-4962,0.79,Pending,None,2026-08-14 14:44:18
+HR-1299,EMP-201,Customer Support,We need regular team updates,Communication,SRC-4555,0.87,Pending,None,2026-08-24 07:57:18
+HR-1300,EMP-275,Customer Support,More training opportunities are needed,Career Growth,SRC-4506,0.95,Pending,None,2026-09-02 02:36:18
+HR-1301,EMP-475,Operations,The workplace environment is comfortable,Work Environment,SRC-3963,0.92,Pending,None,2026-08-28 18:44:18
+HR-1302,EMP-534,IT,The workplace environment is comfortable,Work Environment,SRC-6149,0.65,Pending,None,2026-08-16 12:35:18
+HR-1303,EMP-632,IT,We need better support from managers,Management,SRC-1665,0.63,Pending,None,2026-09-02 23:21:18
+HR-1304,EMP-218,Sales,We need better employee appreciation,Recognition,SRC-8273,0.69,Pending,None,2026-08-30 00:57:18
+HR-1305,EMP-397,Customer Support,Salary structure could be improved,Compensation,SRC-8793,0.96,Pending,None,2026-08-28 05:26:18
+HR-1306,EMP-283,HR,The workplace environment is comfortable,Work Environment,SRC-7494,0.77,Pending,None,2026-09-10 11:24:18
+HR-1307,EMP-792,HR,Workload,Unclear,SRC-7563,0.44,Pending,None,2026-08-16 03:12:18
+HR-1308,EMP-859,IT,It is okay,Unclear,SRC-6548,0.27,Pending,None,2026-08-29 21:41:18
+HR-1309,EMP-225,IT,There should be clearer promotion opportunities,Career Growth,SRC-5563,0.89,Pending,None,2026-09-06 23:42:18
+HR-1310,EMP-707,Finance,Compensation should reflect responsibilities,Compensation,SRC-6834,0.78,Pending,None,2026-09-07 22:55:18
+HR-1311,EMP-514,Sales,We need better workload distribution,Workload,SRC-2770,0.65,Pending,None,2026-09-02 18:35:18
+HR-1312,EMP-609,IT,The workload is too high,Workload,SRC-2631,0.88,Pending,None,2026-08-14 14:37:18
+HR-1313,EMP-610,Operations,Maybe some changes are needed,Unclear,SRC-7269,0.41,Pending,None,2026-08-26 09:13:18
+HR-1314,EMP-256,Finance,Need better internal communication,Communication,SRC-9518,0.89,Pending,None,2026-09-01 17:07:18
+HR-1315,EMP-306,Finance,The work environment needs improvement,Work Environment,SRC-5287,0.81,Pending,None,2026-09-05 02:30:18
+HR-1316,EMP-659,HR,There should be better communication between departments,Communication,SRC-2951,0.75,Pending,None,2026-08-25 19:40:18
+HR-1317,EMP-973,Sales,Need better internal communication,Communication,SRC-3897,0.81,Pending,None,2026-08-25 07:06:18
+HR-1318,EMP-823,IT,Work pressure is increasing,Workload,SRC-7374,0.79,Pending,None,2026-08-16 11:34:18
+HR-1319,EMP-682,Operations,Employees deserve more recognition,Recognition,SRC-8697,0.78,Pending,None,2026-08-18 14:49:18
+HR-1320,EMP-618,HR,The work environment needs improvement,Work Environment,SRC-7189,0.83,Pending,None,2026-08-27 13:24:18
+HR-1321,EMP-884,Finance,We need regular team updates,Communication,SRC-1739,0.65,Pending,None,2026-08-28 04:19:18
+HR-1322,EMP-457,Customer Support,Teams should communicate more clearly,Communication,SRC-7235,0.64,Pending,None,2026-08-27 05:05:18
+HR-1323,EMP-465,Sales,Employees need better career growth opportunities,Career Growth,SRC-5056,0.69,Pending,None,2026-08-25 16:59:18
+HR-1324,EMP-706,HR,Teams should communicate more clearly,Communication,SRC-2875,0.73,Pending,None,2026-08-12 09:37:18
+HR-1325,EMP-651,Finance,No clear opinion,Unclear,SRC-9433,0.52,Pending,None,2026-08-23 15:19:18
+HR-1326,EMP-120,Operations,Teams should communicate more clearly,Communication,SRC-7188,0.82,Pending,None,2026-08-26 04:16:18
+HR-1327,EMP-686,HR,Important information is not shared on time,Communication,SRC-6504,0.79,Pending,None,2026-08-26 22:58:18
+HR-1328,EMP-270,Marketing,The office environment could be improved,Work Environment,SRC-9142,0.84,Pending,None,2026-08-14 22:22:18
+HR-1329,EMP-960,Customer Support,We need better support from managers,Management,SRC-1778,0.71,Pending,None,2026-09-06 14:32:18
+HR-1330,EMP-511,Customer Support,More training opportunities are needed,Career Growth,SRC-2552,0.82,Pending,None,2026-08-23 22:41:18
+HR-1331,EMP-168,Marketing,The workplace facilities are good,Work Environment,SRC-4436,0.73,Pending,None,2026-08-14 23:50:18
+HR-1332,EMP-767,Customer Support,Pay should be reviewed regularly,Compensation,SRC-8092,0.85,Pending,None,2026-08-25 18:21:18
+HR-1333,EMP-304,Sales,Employees deserve more recognition,Recognition,SRC-8425,0.86,Pending,None,2026-09-05 10:11:18
+HR-1334,EMP-284,HR,Good work should receive more recognition,Recognition,SRC-9178,0.68,Pending,None,2026-09-01 18:30:18
+HR-1335,EMP-374,Operations,Hard work should be recognized,Recognition,SRC-1981,0.8,Pending,None,2026-08-28 01:59:18
+HR-1336,EMP-573,IT,We need more learning programs,Career Growth,SRC-8133,0.76,Pending,None,2026-08-14 10:28:18
+HR-1337,EMP-749,IT,We need better support from managers,Management,SRC-3631,0.7,Pending,None,2026-09-07 20:48:18
+HR-1338,EMP-341,Sales,Too many tasks are assigned at once,Workload,SRC-1453,0.69,Pending,None,2026-08-25 15:17:18
+HR-1339,EMP-575,Sales,The workplace facilities are good,Work Environment,SRC-1606,0.68,Pending,None,2026-08-23 21:58:18
+HR-1340,EMP-239,HR,Pay should be reviewed regularly,Compensation,SRC-3883,0.84,Pending,None,2026-08-13 10:13:18
+HR-1341,EMP-839,Sales,Need better internal communication,Communication,SRC-6143,0.83,Pending,None,2026-08-14 09:32:18
+HR-1342,EMP-516,Finance,There should be better communication between departments,Communication,SRC-3302,0.69,Pending,None,2026-09-06 11:45:18
+HR-1343,EMP-852,Marketing,Employees deserve more recognition,Recognition,SRC-9605,0.7,Pending,None,2026-08-15 14:40:18
+HR-1344,EMP-343,Marketing,Not good,Unclear,SRC-6134,0.32,Pending,None,2026-09-07 02:20:18
+HR-1345,EMP-854,Sales,Employees need better career growth opportunities,Career Growth,SRC-7928,0.68,Pending,None,2026-08-16 08:46:18
+HR-1346,EMP-279,IT,The workplace facilities are good,Work Environment,SRC-5166,0.93,Pending,None,2026-08-14 01:11:18
+HR-1347,EMP-602,Marketing,Teams should communicate more clearly,Communication,SRC-9941,0.76,Pending,None,2026-08-22 17:10:18
+HR-1348,EMP-384,Customer Support,Managers should communicate expectations clearly,Management,SRC-7025,0.91,Pending,None,2026-08-12 11:07:18
+HR-1349,EMP-760,Marketing,Things could be better,Unclear,SRC-4926,0.29,Pending,None,2026-08-29 00:17:18
+HR-1350,EMP-416,Operations,Managers should give more feedback,Management,SRC-9763,0.93,Pending,None,2026-08-31 15:19:18
+HR-1351,EMP-497,HR,We need a better working environment,Work Environment,SRC-5929,0.63,Pending,None,2026-08-22 05:17:18
+HR-1352,EMP-404,IT,We need better workload distribution,Workload,SRC-6196,0.93,Pending,None,2026-09-09 19:59:18
+HR-1353,EMP-516,Customer Support,Not sure about this,Unclear,SRC-9055,0.36,Pending,None,2026-08-30 07:09:18
+HR-1354,EMP-961,Finance,Salary structure could be improved,Compensation,SRC-3627,0.87,Pending,None,2026-09-03 13:09:18
+HR-1355,EMP-167,Finance,More professional development would help,Career Growth,SRC-6353,0.77,Pending,None,2026-08-12 17:58:18
+HR-1356,EMP-880,HR,We need better workload distribution,Workload,SRC-3229,0.6,Pending,None,2026-08-20 14:38:18
+HR-1357,EMP-743,Finance,Need better internal communication,Communication,SRC-3585,0.69,Pending,None,2026-09-10 01:10:18
+HR-1358,EMP-881,IT,There should be clearer promotion opportunities,Career Growth,SRC-6233,0.77,Pending,None,2026-08-17 13:55:18
+HR-1359,EMP-366,IT,Pay should be reviewed regularly,Compensation,SRC-5616,0.68,Pending,None,2026-08-30 08:50:18
+HR-1360,EMP-476,IT,The work environment needs improvement,Work Environment,SRC-4677,0.61,Pending,None,2026-08-12 13:11:18
+HR-1361,EMP-671,Operations,The workload is too high,Workload,SRC-8576,0.68,Pending,None,2026-08-19 04:25:18
+HR-1362,EMP-150,Sales,We need better employee appreciation,Recognition,SRC-3445,0.63,Pending,None,2026-08-28 05:58:18
+HR-1363,EMP-274,Marketing,Better,Unclear,SRC-9615,0.35,Pending,None,2026-09-01 03:40:18
+HR-1364,EMP-947,Operations,Too many tasks are assigned at once,Workload,SRC-4121,0.96,Pending,None,2026-08-23 14:51:18
+HR-1365,EMP-394,Operations,We need better workload distribution,Workload,SRC-4385,0.83,Pending,None,2026-08-24 09:10:18
+HR-1366,EMP-844,Operations,We need better workload distribution,Workload,SRC-3391,0.61,Pending,None,2026-08-23 10:03:18
+HR-1367,EMP-341,Marketing,Work pressure is increasing,Workload,SRC-8506,0.63,Pending,None,2026-09-01 20:14:18
+HR-1368,EMP-236,Customer Support,There should be clearer promotion opportunities,Career Growth,SRC-4476,0.87,Pending,None,2026-08-30 18:26:18
+HR-1369,EMP-853,Marketing,We need regular team updates,Communication,SRC-1962,0.62,Pending,None,2026-08-22 04:36:18
+HR-1370,EMP-582,Finance,More professional development would help,Career Growth,SRC-1745,0.6,Pending,None,2026-09-03 11:11:18
+HR-1371,EMP-734,Sales,We need a better working environment,Work Environment,SRC-3166,0.97,Pending,None,2026-09-05 23:17:18
+HR-1372,EMP-142,Marketing,Some employees have too much work,Workload,SRC-9074,0.95,Pending,None,2026-09-01 19:22:18
+HR-1373,EMP-235,HR,Hard work should be recognized,Recognition,SRC-3323,0.7,Pending,None,2026-08-25 18:16:18
+HR-1374,EMP-145,IT,Pay should be reviewed regularly,Compensation,SRC-6907,0.95,Pending,None,2026-08-24 09:07:18
+HR-1375,EMP-997,Finance,Pay should be reviewed regularly,Compensation,SRC-9470,0.72,Pending,None,2026-08-19 00:18:18
+HR-1376,EMP-423,Operations,Employees need better compensation,Compensation,SRC-8208,0.62,Pending,None,2026-08-18 06:26:18
+HR-1377,EMP-155,IT,We need a better working environment,Work Environment,SRC-3679,0.87,Pending,None,2026-08-31 08:47:18
+HR-1378,EMP-218,Sales,I don't know,Unclear,SRC-8949,0.36,Pending,None,2026-08-16 14:58:18
+HR-1379,EMP-966,Operations,Teams should communicate more clearly,Communication,SRC-2533,0.68,Pending,None,2026-08-24 10:25:18
+HR-1380,EMP-284,Customer Support,We need better employee appreciation,Recognition,SRC-4479,0.82,Pending,None,2026-08-11 16:36:18
+HR-1381,EMP-638,Customer Support,The workplace environment is comfortable,Work Environment,SRC-5033,0.89,Pending,None,2026-08-15 19:06:18
+HR-1382,EMP-436,HR,More training opportunities are needed,Career Growth,SRC-7458,0.74,Pending,None,2026-08-16 07:57:18
+HR-1383,EMP-957,Finance,There should be better communication between departments,Communication,SRC-8861,0.77,Pending,None,2026-08-23 18:16:18
+HR-1384,EMP-708,Operations,Things could be better,Unclear,SRC-8423,0.31,Pending,None,2026-09-06 09:46:18
+HR-1385,EMP-232,IT,Pay should be reviewed regularly,Compensation,SRC-6294,0.9,Pending,None,2026-08-14 17:20:18
+HR-1386,EMP-660,Marketing,We need a better working environment,Work Environment,SRC-3916,0.69,Pending,None,2026-08-29 15:49:18
+HR-1387,EMP-191,HR,We need better workload distribution,Workload,SRC-7592,0.71,Pending,None,2026-09-10 06:30:18
+HR-1388,EMP-257,HR,Compensation should reflect responsibilities,Compensation,SRC-6080,0.94,Pending,None,2026-09-07 23:17:18
+HR-1389,EMP-234,Finance,Pay should be reviewed regularly,Compensation,SRC-9399,0.68,Pending,None,2026-08-31 18:38:18
+HR-1390,EMP-497,Sales,Hard work should be recognized,Recognition,SRC-2478,0.89,Pending,None,2026-08-28 06:18:18
+HR-1391,EMP-728,IT,The workplace environment is comfortable,Work Environment,SRC-1662,0.8,Pending,None,2026-09-01 14:23:18
+HR-1392,EMP-792,IT,Employees need better career growth opportunities,Career Growth,SRC-9115,0.8,Pending,None,2026-09-09 23:02:18
+HR-1393,EMP-637,HR,The workplace environment is comfortable,Work Environment,SRC-8825,0.71,Pending,None,2026-08-17 07:40:18
+HR-1394,EMP-800,Finance,Hard work should be recognized,Recognition,SRC-5841,0.82,Pending,None,2026-09-05 13:55:18
+HR-1395,EMP-178,HR,Hard work should be recognized,Recognition,SRC-7766,0.64,Pending,None,2026-09-06 09:01:18
+HR-1396,EMP-932,Finance,Employees should be appreciated more,Recognition,SRC-9248,0.61,Pending,None,2026-09-01 13:41:18
+HR-1397,EMP-283,Customer Support,The workplace environment is comfortable,Work Environment,SRC-2364,0.76,Pending,None,2026-08-25 01:12:18
+HR-1398,EMP-421,Marketing,Compensation should reflect responsibilities,Compensation,SRC-5342,0.73,Pending,None,2026-08-20 00:33:18
+HR-1399,EMP-316,IT,Could improve,Unclear,SRC-2742,0.35,Pending,None,2026-08-12 07:40:18
+HR-1400,EMP-105,Sales,Need improvement,Unclear,SRC-8817,0.36,Pending,None,2026-08-29 22:34:18
+HR-1401,EMP-989,Operations,Hard work should be recognized,Recognition,SRC-5961,0.84,Pending,None,2026-09-08 13:44:18
+HR-1402,EMP-469,Operations,There should be clearer promotion opportunities,Career Growth,SRC-5958,0.63,Pending,None,2026-08-17 15:40:18
+HR-1403,EMP-114,IT,,Unclear,SRC-4083,0.5,Pending,None,2026-08-21 00:38:18
+HR-1404,EMP-592,Operations,Need improvement,Unclear,SRC-8139,0.49,Pending,None,2026-09-05 00:22:18
+HR-1405,EMP-295,HR,The office environment could be improved,Work Environment,SRC-8765,0.76,Pending,None,2026-08-16 19:18:18
+HR-1406,EMP-270,IT,The workplace facilities are good,Work Environment,SRC-8724,0.61,Pending,None,2026-08-31 23:05:18
+HR-1407,EMP-699,IT,Hard work should be recognized,Recognition,SRC-1834,0.73,Pending,None,2026-08-16 04:14:18
+HR-1408,EMP-745,Customer Support,The workplace facilities are good,Work Environment,SRC-5764,0.61,Pending,None,2026-08-29 16:39:18
+HR-1409,EMP-597,Marketing,Hard work should be recognized,Recognition,SRC-4799,0.87,Pending,None,2026-09-04 13:09:18
+HR-1410,EMP-119,Sales,Employees should be appreciated more,Recognition,SRC-5388,0.94,Pending,None,2026-08-30 11:43:18
+HR-1411,EMP-584,HR,We need more learning programs,Career Growth,SRC-8345,0.87,Pending,None,2026-08-12 10:49:18
+HR-1412,EMP-265,Finance,We need a better working environment,Work Environment,SRC-8178,0.69,Pending,None,2026-08-21 12:04:18
+HR-1413,EMP-701,Operations,Hard work should be recognized,Recognition,SRC-3148,0.94,Pending,None,2026-08-29 06:29:18
+HR-1414,EMP-526,Customer Support,We need more learning programs,Career Growth,SRC-8738,0.9,Pending,None,2026-08-18 21:04:18
+HR-1415,EMP-736,IT,More training opportunities are needed,Career Growth,SRC-8911,0.65,Pending,None,2026-08-20 13:59:18
+HR-1416,EMP-260,Marketing,Compensation should reflect responsibilities,Compensation,SRC-9089,0.72,Pending,None,2026-08-21 00:51:18
+HR-1417,EMP-670,HR,We need better support from managers,Management,SRC-6849,0.86,Pending,None,2026-08-19 10:56:18
+HR-1418,EMP-947,Customer Support,Need better internal communication,Communication,SRC-6533,0.76,Pending,None,2026-09-08 14:38:18
+HR-1419,EMP-332,HR,We need a better working environment,Work Environment,SRC-6575,0.9,Pending,None,2026-08-13 15:04:18
+HR-1420,EMP-888,Marketing,Some employees have too much work,Workload,SRC-2706,0.87,Pending,None,2026-08-31 10:19:18
+HR-1421,EMP-918,Sales,Salary structure could be improved,Compensation,SRC-2734,0.9,Pending,None,2026-09-08 06:00:18
+HR-1422,EMP-900,Customer Support,Benefits could be improved,Compensation,SRC-1687,0.79,Pending,None,2026-08-19 02:33:18
+HR-1423,EMP-745,HR,Management should listen to employees,Management,SRC-5786,0.87,Pending,None,2026-09-03 12:40:18
+HR-1424,EMP-610,Operations,Work pressure is increasing,Workload,SRC-6482,0.91,Pending,None,2026-08-17 02:25:18
+HR-1425,EMP-968,IT,The workplace environment is comfortable,Work Environment,SRC-5019,0.92,Pending,None,2026-09-02 01:28:18
+HR-1426,EMP-449,Finance,Teams should communicate more clearly,Communication,SRC-7101,0.87,Pending,None,2026-08-30 09:24:18
+HR-1427,EMP-469,Operations,Some employees have too much work,Workload,SRC-7909,0.9,Pending,None,2026-08-17 18:49:18
+HR-1428,EMP-921,Sales,The workplace facilities are good,Work Environment,SRC-9456,0.9,Pending,None,2026-08-27 23:15:18
+HR-1429,EMP-130,Sales,,Unclear,SRC-9476,0.53,Pending,None,2026-08-15 08:42:18
+HR-1430,EMP-446,Finance,Employees need better compensation,Compensation,SRC-8111,0.62,Pending,None,2026-08-13 04:36:18
+HR-1431,EMP-776,Operations,Employees should be appreciated more,Recognition,SRC-9516,0.97,Pending,None,2026-08-30 14:05:18
+HR-1432,EMP-511,Operations,Pay should be reviewed regularly,Compensation,SRC-6139,0.95,Pending,None,2026-08-11 20:43:18
+HR-1433,EMP-946,Finance,Good work should receive more recognition,Recognition,SRC-7618,0.77,Pending,None,2026-08-20 20:09:18
+HR-1434,EMP-657,Marketing,There should be clearer promotion opportunities,Career Growth,SRC-6656,0.94,Pending,None,2026-09-10 00:42:18
+HR-1435,EMP-514,Customer Support,Managers should give more feedback,Management,SRC-1605,0.8,Pending,None,2026-08-29 06:04:18
+HR-1436,EMP-842,Operations,Some employees have too much work,Workload,SRC-9860,0.71,Pending,None,2026-08-15 17:29:18
+HR-1437,EMP-623,Marketing,Management should listen to employees,Management,SRC-1383,0.61,Pending,None,2026-09-05 01:51:18
+HR-1438,EMP-706,Finance,Pay should be reviewed regularly,Compensation,SRC-7926,0.98,Pending,None,2026-08-16 12:43:18
+HR-1439,EMP-849,HR,Leadership can improve employee support,Management,SRC-6807,0.65,Pending,None,2026-09-10 03:07:18
+HR-1440,EMP-227,Sales,More training opportunities are needed,Career Growth,SRC-8424,0.73,Pending,None,2026-08-22 05:58:18
+HR-1441,EMP-924,Operations,Employees deserve more recognition,Recognition,SRC-4831,0.73,Pending,None,2026-08-24 10:53:18
+HR-1442,EMP-782,Customer Support,Good work should receive more recognition,Recognition,SRC-7187,0.8,Pending,None,2026-08-22 18:34:18
+HR-1443,EMP-207,Finance,Work pressure is increasing,Workload,SRC-8443,0.64,Pending,None,2026-08-30 21:04:18
+HR-1444,EMP-948,Sales,Things could be better,Unclear,SRC-7961,0.51,Pending,None,2026-09-02 04:17:18
+HR-1445,EMP-319,Sales,Nothing specific,Unclear,SRC-7598,0.41,Pending,None,2026-09-04 02:55:18
+HR-1446,EMP-897,Sales,Hard work should be recognized,Recognition,SRC-7937,0.98,Pending,None,2026-09-02 18:48:18
+HR-1447,EMP-849,Sales,Some employees have too much work,Workload,SRC-3082,0.78,Pending,None,2026-09-01 08:02:18
+HR-1448,EMP-232,Operations,Employees should be appreciated more,Recognition,SRC-4483,0.77,Pending,None,2026-08-12 23:42:18
+HR-1449,EMP-864,IT,Managers should give more feedback,Management,SRC-7694,0.64,Pending,None,2026-08-28 07:47:18
+HR-1450,EMP-685,Finance,Maybe some changes are needed,Unclear,SRC-2929,0.33,Pending,None,2026-08-28 13:06:18
+HR-1451,EMP-410,Finance,Employees need better compensation,Compensation,SRC-3328,0.9,Pending,None,2026-08-30 16:46:18
+HR-1452,EMP-149,Finance,Too many tasks are assigned at once,Workload,SRC-9008,0.6,Pending,None,2026-09-05 10:09:18
+HR-1453,EMP-457,HR,The workplace facilities are good,Work Environment,SRC-6074,0.81,Pending,None,2026-08-26 21:05:18
+HR-1454,EMP-900,Sales,More professional development would help,Career Growth,SRC-3175,0.89,Pending,None,2026-09-03 11:26:18
+HR-1455,EMP-751,Sales,There should be clearer promotion opportunities,Career Growth,SRC-3440,0.93,Pending,None,2026-08-26 07:19:18
+HR-1456,EMP-191,Customer Support,Hard work should be recognized,Recognition,SRC-7344,0.69,Pending,None,2026-08-29 11:58:18
+HR-1457,EMP-447,Marketing,There are some issues,Unclear,SRC-5544,0.43,Pending,None,2026-08-19 00:59:18
+HR-1458,EMP-824,HR,Pay should be reviewed regularly,Compensation,SRC-3028,0.84,Pending,None,2026-08-15 09:06:18
+HR-1459,EMP-297,Marketing,Salary structure could be improved,Compensation,SRC-9548,0.67,Pending,None,2026-09-02 03:50:18
+HR-1460,EMP-614,HR,Manager,Unclear,SRC-3944,0.54,Pending,None,2026-08-24 00:25:18
+HR-1461,EMP-905,IT,More professional development would help,Career Growth,SRC-8278,0.63,Pending,None,2026-09-04 18:52:18
+HR-1462,EMP-721,Finance,There should be better communication between departments,Communication,SRC-1381,0.73,Pending,None,2026-08-19 17:15:18
+HR-1463,EMP-524,HR,Managers should communicate expectations clearly,Management,SRC-5213,0.63,Pending,None,2026-08-16 00:35:18
+HR-1464,EMP-654,IT,Work pressure is increasing,Workload,SRC-2468,0.66,Pending,None,2026-08-30 00:57:18
+HR-1465,EMP-794,IT,I don't know,Unclear,SRC-3973,0.21,Pending,None,2026-08-14 03:59:18
+HR-1466,EMP-405,Sales,Maybe some changes are needed,Unclear,SRC-7763,0.51,Pending,None,2026-08-23 05:49:18
+HR-1467,EMP-484,Customer Support,Important information is not shared on time,Communication,SRC-4925,0.89,Pending,None,2026-09-07 04:12:18
+HR-1468,EMP-342,Sales,Hard work should be recognized,Recognition,SRC-2885,0.7,Pending,None,2026-08-25 23:48:18
+HR-1469,EMP-575,Marketing,The workplace environment is comfortable,Work Environment,SRC-7676,0.84,Pending,None,2026-08-12 08:26:18
+HR-1470,EMP-375,Marketing,More training opportunities are needed,Career Growth,SRC-5035,0.89,Pending,None,2026-09-10 03:46:18
+HR-1471,EMP-904,IT,The workplace facilities are good,Work Environment,SRC-2374,0.92,Pending,None,2026-09-03 06:42:18
+HR-1472,EMP-308,Customer Support,Leadership can improve employee support,Management,SRC-3755,0.9,Pending,None,2026-09-04 23:13:18
+HR-1473,EMP-533,Marketing,There should be better communication between departments,Communication,SRC-5739,0.85,Pending,None,2026-08-19 02:55:18
+HR-1474,EMP-100,HR,We need a better working environment,Work Environment,SRC-5110,0.92,Pending,None,2026-08-28 19:19:18
+HR-1475,EMP-459,Customer Support,Employees deserve more recognition,Recognition,SRC-5609,0.62,Pending,None,2026-09-04 19:28:18
+HR-1476,EMP-676,HR,The workplace environment is comfortable,Work Environment,SRC-3288,0.88,Pending,None,2026-08-24 05:20:18
+HR-1477,EMP-999,Sales,We need better employee appreciation,Recognition,SRC-6613,0.84,Pending,None,2026-09-01 02:35:18
+HR-1478,EMP-379,IT,We need better support from managers,Management,SRC-4450,0.77,Pending,None,2026-09-07 18:55:18
+HR-1479,EMP-436,HR,The workload is too high,Workload,SRC-8807,0.6,Pending,None,2026-08-11 22:33:18
+HR-1480,EMP-788,IT,There should be clearer promotion opportunities,Career Growth,SRC-7435,0.8,Pending,None,2026-09-10 01:05:18
+HR-1481,EMP-766,HR,Compensation should reflect responsibilities,Compensation,SRC-3022,0.73,Pending,None,2026-08-28 15:12:18
+HR-1482,EMP-947,Marketing,The workload is too high,Workload,SRC-3044,0.78,Pending,None,2026-08-20 06:53:18
+HR-1483,EMP-555,HR,Teams should communicate more clearly,Communication,SRC-6862,0.67,Pending,None,2026-09-08 10:08:18
+HR-1484,EMP-740,Finance,Too many tasks are assigned at once,Workload,SRC-9090,0.97,Pending,None,2026-08-13 04:17:18
+HR-1485,EMP-387,Sales,More professional development would help,Career Growth,SRC-4425,0.6,Pending,None,2026-09-09 13:26:18
+HR-1486,EMP-505,HR,Employees deserve more recognition,Recognition,SRC-9093,0.66,Pending,None,2026-08-20 07:44:18
+HR-1487,EMP-775,Operations,More professional development would help,Career Growth,SRC-3875,0.62,Pending,None,2026-08-17 08:10:18
+HR-1488,EMP-863,HR,Manager,Unclear,SRC-4734,0.51,Pending,None,2026-08-23 23:44:18
+HR-1489,EMP-296,Customer Support,More professional development would help,Career Growth,SRC-5143,0.86,Pending,None,2026-09-01 03:54:18
+HR-1490,EMP-102,Sales,More training opportunities are needed,Career Growth,SRC-6292,0.76,Pending,None,2026-08-30 00:31:18
+HR-1491,EMP-380,HR,The workplace facilities are good,Work Environment,SRC-6922,0.8,Pending,None,2026-08-13 11:34:18
+HR-1492,EMP-838,IT,No clear opinion,Unclear,SRC-9723,0.36,Pending,None,2026-08-11 17:44:18
+HR-1493,EMP-501,IT,Employees should be appreciated more,Recognition,SRC-4696,0.97,Pending,None,2026-08-30 19:01:18
+HR-1494,EMP-176,IT,We need better support from managers,Management,SRC-2029,0.84,Pending,None,2026-08-15 21:45:18
+HR-1495,EMP-128,Sales,We need regular team updates,Communication,SRC-6477,0.92,Pending,None,2026-08-22 18:03:18
+HR-1496,EMP-210,Sales,Managers should give more feedback,Management,SRC-6465,0.8,Pending,None,2026-08-22 06:41:18
+HR-1497,EMP-174,Customer Support,The workplace environment is comfortable,Work Environment,SRC-8314,0.82,Pending,None,2026-08-15 09:31:18
+HR-1498,EMP-162,HR,Salary structure could be improved,Compensation,SRC-3089,0.62,Pending,None,2026-08-31 14:47:18
+HR-1499,EMP-156,Finance,The workplace environment is comfortable,Work Environment,SRC-2668,0.86,Pending,None,2026-09-05 22:57:18
+HR-1500,EMP-153,Finance,The workplace environment is comfortable,Work Environment,SRC-7735,0.69,Pending,None,2026-09-07 18:59:18
